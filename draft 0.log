@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  24 AUG 2026 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  24 AUG 2026 23:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,6 +485,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 60.
+(draft 0.out) (draft 0.out)
 \@outlinefile=\write3
 \openout3 = `"draft 0.out"'.
 
@@ -508,59 +509,47 @@ Package microtype Info: Patching command `\showhyphens'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+ (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-<graphics/sec logo.png, id=3, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=231, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 128.
 (pdftex.def)             Requested size: 113.24197pt x 113.23526pt.
  [1
 
-{C:/Users/Rakib/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./graphics/sec logo.png>] [1] [2] [3] [4] [5]
-No file "draft 0".toc.
-\tf@toc=\write4
-\openout4 = `"draft 0.toc"'.
-
-[6
-
-]
-No file "draft 0".lof.
-\tf@lof=\write5
-\openout5 = `"draft 0.lof"'.
-
-[7
-
-]
-No file "draft 0".lot.
-\tf@lot=\write6
-\openout6 = `"draft 0.lot"'.
-
-[8
-
-]
-
-LaTeX Warning: Citation `faria2025vashantor' on page 1 undefined on input line 384.
-
-
-LaTeX Warning: Citation `sennrich2015neural' on page 1 undefined on input line 391.
-
-
-LaTeX Warning: Citation `wu2016google' on page 1 undefined on input line 391.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 393.
-(C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+{C:/Users/Rakib/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./graphics/sec logo.png>] [1] [2] [3] [4] [5] (draft 0.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+ (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 393.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
+) [6
+
+])
+\tf@toc=\write4
+\openout4 = `"draft 0.toc"'.
+
+ [7] (draft 0.lof)
+\tf@lof=\write5
+\openout5 = `"draft 0.lof"'.
+
+ [8
+
+] (draft 0.lot)
+\tf@lot=\write6
+\openout6 = `"draft 0.lot"'.
+
+ [9
+
+]
 
 LaTeX Warning: Reference `fig:topology' on page 1 undefined on input line 393.
 
@@ -577,589 +566,124 @@ l.398 ...ection{Proposed System and Contributions}
 
 LaTeX Warning: Reference `fig:overview' on page 2 undefined on input line 399.
 
-
-LaTeX Warning: File `graphics/overview.pdf' not found on input line 403.
-
-
-d:/defence writing/draft 0.tex:403: Package pdftex.def Error: File `graphics/overview.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.403 ...dth=.95\textwidth]{graphics/overview.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[2]
-
-LaTeX Warning: Citation `bhattacharjee-etal-2023-banglanlg' on page 3 undefined on input line 411.
-
-
-LaTeX Warning: Citation `nllb2022' on page 3 undefined on input line 411.
-
-
-LaTeX Warning: Citation `tang2020multilingual' on page 3 undefined on input line 411.
-
-[3]
-
-LaTeX Warning: Citation `sultana2024bdregion' on page 4 undefined on input line 426.
-
-
-LaTeX Warning: Citation `mahi2025bangladial' on page 4 undefined on input line 426.
-
-
-LaTeX Warning: Citation `kundu2026anubhuti' on page 4 undefined on input line 428.
-
-
-LaTeX Warning: Citation `fayaz2025bidwesh' on page 4 undefined on input line 428.
-
-
-LaTeX Warning: Citation `paul2025ancholik' on page 4 undefined on input line 428.
-
-
-LaTeX Warning: Citation `chowdhury2025chatgaiyya' on page 4 undefined on input line 433.
-
-
-LaTeX Warning: Citation `sultana2025onubad' on page 4 undefined on input line 433.
-
-
-LaTeX Warning: Citation `faria2025vashantor' on page 4 undefined on input line 433.
-
-
-LaTeX Warning: Citation `mahjabin2025banglachq' on page 4 undefined on input line 435.
-
-
-LaTeX Warning: Citation `jawad2025dialtsa' on page 4 undefined on input line 435.
-
-
-LaTeX Warning: Citation `bhuiyan2025bhasabodh' on page 4 undefined on input line 435.
-
-[4
+[2] [3] [4
 
 ]
 
-LaTeX Warning: Reference `fig:timeline' on page 5 undefined on input line 447.
+LaTeX Warning: Reference `fig:timeline' on page 5 undefined on input line 442.
 
 
-LaTeX Warning: File `graphics/dataset_timeline.pdf' not found on input line 451.
-
-
-d:/defence writing/draft 0.tex:451: Package pdftex.def Error: File `graphics/dataset_timeline.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.451 ...textwidth]{graphics/dataset_timeline.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `tab:literature_summary' on page 5 undefined on input line 459.
-
-
-Overfull \hbox (2.7408pt too wide) in paragraph at lines 499--499
+Overfull \hbox (2.7408pt too wide) in paragraph at lines 489--489
 []|\OT1/cmr/m/n/10.95 (-20) Comprehensive 
  []
 
 
-Overfull \hbox (16.37648pt too wide) in paragraph at lines 505--505
+Overfull \hbox (16.37648pt too wide) in paragraph at lines 495--495
 \OT1/cmr/m/n/10.95 (-20) tive/Romanized).|  
  []
 
 
-Overfull \hbox (1.6278pt too wide) in paragraph at lines 509--509
+Overfull \hbox (1.6278pt too wide) in paragraph at lines 499--499
 []|\OT1/cmr/m/n/10.95 (-20) BanglaCHQ- 
  []
 
 
-Overfull \hbox (1.6278pt too wide) in paragraph at lines 513--513
+Overfull \hbox (1.6278pt too wide) in paragraph at lines 503--503
 []|\OT1/cmr/m/n/10.95 (-20) BanglaCHQ- 
  []
 
 
-Overfull \hbox (1.55458pt too wide) in paragraph at lines 515--515
+Overfull \hbox (1.55458pt too wide) in paragraph at lines 505--505
 \OT1/cmr/m/n/10.95 (-20) tences/region).|  
  []
 
-[5] [6] [7] [8] [9]
+[5] [6] [7] [8]
+Overfull \hbox (2.64827pt too wide) in paragraph at lines 525--526
+\OT1/cmr/m/n/12 (-20) multilingual NMT architectures---BanglaT5 [[]2[]], NLLB-200 [[]22[]], and mBART-50 [[]33[]]---
+ []
 
-LaTeX Warning: Citation `bhattacharjee-etal-2023-banglanlg' on page 10 undefined on input line 535.
+[9
+
+]
+
+LaTeX Warning: Reference `fig:dataset_composition' on page 10 undefined on input line 563.
 
 
-LaTeX Warning: Citation `nllb2022' on page 10 undefined on input line 535.
+LaTeX Warning: Reference `fig:coverage_matrix' on page 10 undefined on input line 563.
 
 
-LaTeX Warning: Citation `tang2020multilingual' on page 10 undefined on input line 535.
-
-
-LaTeX Warning: Citation `liu2024dora' on page 10 undefined on input line 535.
+LaTeX Warning: Reference `fig:sentence_lengths' on page 10 undefined on input line 569.
 
 [10
 
-]
+] [11] [12]
 
-LaTeX Warning: Reference `tab:source_contributions' on page 11 undefined on input line 545.
+LaTeX Warning: Reference `fig:dora_vs_lora' on page 13 undefined on input line 685.
 
 
-LaTeX Warning: Reference `fig:dataset_composition' on page 11 undefined on input line 573.
+LaTeX Warning: Reference `fig:lora_efficiency' on page 13 undefined on input line 685.
 
+[13] [14] [15]
 
-LaTeX Warning: Reference `fig:coverage_matrix' on page 11 undefined on input line 573.
+LaTeX Warning: Reference `fig:model_comparison' on page 16 undefined on input line 787.
 
 
-LaTeX Warning: File `graphics/source_contributions_advanced.pdf' not found on input line 577.
+LaTeX Warning: Reference `fig:bleu_heatmap' on page 16 undefined on input line 792.
 
-
-d:/defence writing/draft 0.tex:577: Package pdftex.def Error: File `graphics/source_contributions_advanced.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.577 ...aphics/source_contributions_advanced.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `graphics/coverage_matrix_advanced.pdf' not found on input line 584.
-
-
-d:/defence writing/draft 0.tex:584: Package pdftex.def Error: File `graphics/coverage_matrix_advanced.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.584 ...h]{graphics/coverage_matrix_advanced.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:sentence_lengths' on page 11 undefined on input line 589.
-
-
-LaTeX Warning: File `graphics/sentence_lengths.pdf' not found on input line 593.
-
-
-d:/defence writing/draft 0.tex:593: Package pdftex.def Error: File `graphics/sentence_lengths.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.593 ...textwidth]{graphics/sentence_lengths.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[11
-
-] [12] [13] [14]
-
-LaTeX Warning: Citation `vaswani2017attention' on page 15 undefined on input line 602.
-
-
-LaTeX Warning: Reference `tab:model_specs' on page 15 undefined on input line 602.
-
-
-LaTeX Warning: Citation `bhattacharjee-etal-2023-banglanlg' on page 15 undefined on input line 625.
-
-
-LaTeX Warning: Citation `raffel2020exploring' on page 15 undefined on input line 625.
-
-
-LaTeX Warning: Citation `nllb2022' on page 15 undefined on input line 630.
-
-[15]
-
-LaTeX Warning: Citation `tang2020multilingual' on page 16 undefined on input line 635.
-
-
-LaTeX Warning: Citation `lewis2020bart' on page 16 undefined on input line 635.
-
-
-LaTeX Warning: Reference `tab:model_hyperparams' on page 16 undefined on input line 640.
-
-
-LaTeX Warning: Reference `tab:model_hyperparams' on page 16 undefined on input line 699.
-
-[16]
-
-LaTeX Warning: Citation `liu2024dora' on page 17 undefined on input line 702.
-
-
-LaTeX Warning: Citation `hu2021lora' on page 17 undefined on input line 702.
-
-
-LaTeX Warning: Reference `fig:dora_vs_lora' on page 17 undefined on input line 710.
-
-
-LaTeX Warning: Reference `fig:lora_efficiency' on page 17 undefined on input line 710.
-
-
-LaTeX Warning: File `graphics/dora_vs_lora.pdf' not found on input line 714.
-
-
-d:/defence writing/draft 0.tex:714: Package pdftex.def Error: File `graphics/dora_vs_lora.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.714 ...th=\textwidth]{graphics/dora_vs_lora.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `graphics/lora_efficiency.pdf' not found on input line 721.
-
-
-d:/defence writing/draft 0.tex:721: Package pdftex.def Error: File `graphics/lora_efficiency.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.721 ...\textwidth]{graphics/lora_efficiency.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[17] [18] [19]
-
-LaTeX Warning: Citation `papineni2002bleu' on page 20 undefined on input line 747.
-
-
-LaTeX Warning: Citation `popovic2015chrf' on page 20 undefined on input line 754.
-
-
-LaTeX Warning: Citation `banerjee2005meteor' on page 20 undefined on input line 762.
-
-[20]
-
-LaTeX Warning: Citation `snover2006study' on page 21 undefined on input line 769.
-
-[21]
-
-LaTeX Warning: Reference `tab:model_results_search' on page 22 undefined on input line 781.
-
-
-LaTeX Warning: Reference `tab:model_results_final' on page 22 undefined on input line 805.
-
-
-LaTeX Warning: Reference `fig:model_comparison' on page 22 undefined on input line 824.
-
-
-LaTeX Warning: File `graphics/model_comparison.pdf' not found on input line 828.
-
-
-d:/defence writing/draft 0.tex:828: Package pdftex.def Error: File `graphics/model_comparison.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.828 ...textwidth]{graphics/model_comparison.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:bleu_heatmap' on page 22 undefined on input line 834.
-
-
-LaTeX Warning: File `graphics/bleu_heatmap.pdf' not found on input line 838.
-
-
-d:/defence writing/draft 0.tex:838: Package pdftex.def Error: File `graphics/bleu_heatmap.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.838 ...h=1\textwidth]{graphics/bleu_heatmap.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[22
+[16
 
 ]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `fig:proximity_bleu' on page 17 undefined on input line 797.
 
 
-LaTeX Warning: Reference `fig:proximity_bleu' on page 23 undefined on input line 844.
+LaTeX Warning: Reference `fig:directionality' on page 17 undefined on input line 803.
 
 
-LaTeX Warning: Citation `chatterji1926origin' on page 23 undefined on input line 849.
+LaTeX Warning: Reference `tab:qualitative' on page 17 undefined on input line 812.
 
 
-LaTeX Warning: Reference `fig:directionality' on page 23 undefined on input line 850.
+LaTeX Warning: Reference `fig:error_analysis' on page 17 undefined on input line 819.
 
+[17]
 
-LaTeX Warning: File `graphics/proximity_vs_bleu_dual_axis.pdf' not found on input line 856.
+LaTeX Warning: Reference `fig:scaling' on page 18 undefined on input line 837.
 
 
-d:/defence writing/draft 0.tex:856: Package pdftex.def Error: File `graphics/proximity_vs_bleu_dual_axis.pdf' not found: using draft setting.
+LaTeX Warning: Reference `fig:comparative_sota' on page 18 undefined on input line 862.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.856 ...graphics/proximity_vs_bleu_dual_axis.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+[18] [19]
 
+LaTeX Warning: Reference `fig:quantization' on page 20 undefined on input line 875.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `graphics/directionality.pdf' not found on input line 863.
-
-
-d:/defence writing/draft 0.tex:863: Package pdftex.def Error: File `graphics/directionality.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.863 ...5\textwidth]{graphics/directionality.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `tab:qualitative' on page 23 undefined on input line 869.
-
-
-LaTeX Warning: Reference `fig:error_analysis' on page 23 undefined on input line 876.
-
-[23]
-
-LaTeX Warning: File `graphics/error_taxonomy.pdf' not found on input line 880.
-
-
-d:/defence writing/draft 0.tex:880: Package pdftex.def Error: File `graphics/error_taxonomy.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.880 ...5\textwidth]{graphics/error_taxonomy.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[24]
-
-LaTeX Warning: Citation `koehn-knowles-2017-six' on page 25 undefined on input line 891.
-
-
-LaTeX Warning: File `graphics/dataset_scaling.pdf' not found on input line 899.
-
-
-d:/defence writing/draft 0.tex:899: Package pdftex.def Error: File `graphics/dataset_scaling.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.899 ...\textwidth]{graphics/dataset_scaling.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:scaling' on page 25 undefined on input line 904.
-
-
-LaTeX Warning: Citation `koehn-knowles-2017-six' on page 25 undefined on input line 904.
-
-
-LaTeX Warning: Reference `tab:sota_comparison' on page 25 undefined on input line 907.
-
-
-LaTeX Warning: Citation `faria2025vashantor' on page 25 undefined on input line 924.
-
-
-LaTeX Warning: Citation `bhuiyan2025bhasabodh' on page 25 undefined on input line 924.
-
-
-LaTeX Warning: Citation `mahjabin2025banglachq' on page 25 undefined on input line 924.
-
-
-LaTeX Warning: File `graphics/comparative_sota.pdf' not found on input line 929.
-
-
-d:/defence writing/draft 0.tex:929: Package pdftex.def Error: File `graphics/comparative_sota.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.929 ...textwidth]{graphics/comparative_sota.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:comparative_sota' on page 25 undefined on input line 934.
-
-[25] [26] [27] [28] [29] [30] [31] [32]
-
-LaTeX Warning: Citation `klein-etal-2017-opennmt' on page 33 undefined on input line 943.
-
-
-LaTeX Warning: Citation `Jacob_2018_CVPR' on page 33 undefined on input line 943.
-
-
-LaTeX Warning: Reference `fig:quantization' on page 33 undefined on input line 947.
-
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 950.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 878.
 (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 950.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 878.
 
 
-LaTeX Warning: Citation `wu2016google' on page 33 undefined on input line 950.
+LaTeX Warning: Reference `fig:deployment_ui' on page 20 undefined on input line 903.
 
 
-LaTeX Warning: Reference `tab:latency' on page 33 undefined on input line 953.
+LaTeX Warning: Reference `fig:deploy_sylheti' on page 20 undefined on input line 903.
 
 
-LaTeX Warning: File `graphics/quantization_radar.pdf' not found on input line 974.
+LaTeX Warning: Reference `fig:deploy_direct' on page 20 undefined on input line 903.
+
+[20
+
+] [21] [22
+
+] [23] [24
+
+] [25
+
+] (draft 0.bbl [26
 
 
-d:/defence writing/draft 0.tex:974: Package pdftex.def Error: File `graphics/quantization_radar.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.974 ...xtwidth]{graphics/quantization_radar.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:deployment_ui' on page 33 undefined on input line 980.
-
-
-LaTeX Warning: Reference `fig:deploy_sylheti' on page 33 undefined on input line 980.
-
-
-LaTeX Warning: Reference `fig:deploy_direct' on page 33 undefined on input line 980.
-
-
-LaTeX Warning: File `deployement/app_interface_overview.png' not found on input line 987.
-
-
-d:/defence writing/draft 0.tex:987: Package pdftex.def Error: File `deployement/app_interface_overview.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.987 ...]{deployement/app_interface_overview.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `deployement/inference_standard_to_sylheti.png' not found on input line 997.
-
-
-d:/defence writing/draft 0.tex:997: Package pdftex.def Error: File `deployement/inference_standard_to_sylheti.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.997 ...yement/inference_standard_to_sylheti.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `deployement/inference_chittagong_to_noakhali.png' not found on input line 1005.
-
-
-d:/defence writing/draft 0.tex:1005: Package pdftex.def Error: File `deployement/inference_chittagong_to_noakhali.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1005 ...nt/inference_chittagong_to_noakhali.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Float too large for page by 33.24118pt on input line 1012.
-
-[33
-
-] [34] [35]
-
-LaTeX Warning: Citation `mathur-etal-2020-tangled' on page 36 undefined on input line 1024.
-
-
-LaTeX Warning: Citation `sennrich-etal-2016-improving' on page 36 undefined on input line 1031.
-
-
-LaTeX Warning: Citation `brown2020language' on page 36 undefined on input line 1031.
-
-
-LaTeX Warning: Citation `touvron2023llama' on page 36 undefined on input line 1031.
-
-
-LaTeX Warning: Citation `radford2023robust' on page 36 undefined on input line 1032.
-
-[36
-
-]
-
-LaTeX Warning: Citation `burchardt-2013-multidimensional' on page 37 undefined on input line 1033.
-
-
-LaTeX Warning: Citation `graham2017machine' on page 37 undefined on input line 1033.
-
-[37]
-
-LaTeX Warning: Citation `mahjabin2025banglachq' on page 38 undefined on input line 1045.
-
-[38
-
-] [39
-
-] (draft 0.bbl [40
-
-
-] [41]) [42] (draft 0.aux)
+] [27]) [28] (draft 0.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
@@ -1168,30 +692,21 @@ L3 programming layer <2026-07-20>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `"draft 0".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"draft 0".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  0684A6266C561E0B6D7403403A0F2D88;10457.
+Package rerunfilecheck Info: File `"draft 0".out' has not changed.
+(rerunfilecheck)             Checksum: AE33909E0632DF29209A9377ECCC410B;10457.
  ) 
 Here is how much of TeX's memory you used:
- 16664 strings out of 467501
- 280725 string characters out of 5408550
- 751628 words of memory out of 5000000
- 45170 multiletter control sequences out of 15000+600000
- 649357 words of font info for 243 fonts, out of 8000000 for 9000
+ 16097 strings out of 467501
+ 257898 string characters out of 5408550
+ 755130 words of memory out of 5000000
+ 44672 multiletter control sequences out of 15000+600000
+ 647694 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,14n,79p,2027b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,14n,79p,2027b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "draft 0.pdf" (51 pages, 1236009 bytes).
+Output written on "draft 0.pdf" (38 pages, 1266051 bytes).
 PDF statistics:
- 532 PDF objects out of 1000 (max. 8388607)
- 205 named destinations out of 1000 (max. 500000)
- 41990 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 761 PDF objects out of 1000 (max. 8388607)
+ 176 named destinations out of 1000 (max. 500000)
+ 38350 words of extra memory for PDF output out of 42996 (max. 10000000)
 

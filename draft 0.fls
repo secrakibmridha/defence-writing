@@ -163,8 +163,14 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-OUTPUT draft 0.out
+INPUT .\draft 0.out
+INPUT .\draft 0.out
+INPUT draft 0.out
+INPUT draft 0.out
 OUTPUT draft 0.pdf
+INPUT .\draft 0.out
+INPUT .\draft 0.out
+OUTPUT draft 0.out
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
@@ -183,10 +189,9 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT draft 0.toc
-OUTPUT draft 0.lof
-OUTPUT draft 0.lot
-INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT .\draft 0.toc
+INPUT .\draft 0.toc
+INPUT draft 0.toc
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -216,6 +221,16 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+OUTPUT draft 0.toc
+INPUT .\draft 0.lof
+INPUT .\draft 0.lof
+INPUT draft 0.lof
+OUTPUT draft 0.lof
+INPUT .\draft 0.lot
+INPUT .\draft 0.lot
+INPUT draft 0.lot
+OUTPUT draft 0.lot
+INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
@@ -235,7 +250,6 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
-INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT .\draft 0.bbl
 INPUT .\draft 0.bbl
 INPUT draft 0.bbl

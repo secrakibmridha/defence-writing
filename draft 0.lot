@@ -1,8 +1,8 @@
-\contentsline {table}{\numberline {2.1}{\ignorespaces Comprehensive Summary of Bangla Regional Dialect NLP Resources and Datasets}}{7}{table.2.1}%
-\contentsline {table}{\numberline {4.1}{\ignorespaces Source corpus contributions per dialect. Values indicate the number of parallel sentence pairs available from each source.}}{11}{table.caption.10}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Architectural comparison of the three NMT models evaluated in this study.}}{15}{table.caption.14}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces Unified hyperparameter matrix for model candidate benchmarking and dataset scaling experiments.}}{16}{table.caption.15}%
-\contentsline {table}{\numberline {5.1}{\ignorespaces Overall performance comparison of the three NMT candidate models fine-tuned for 20 epochs on the poly-dialectal test set (18,062 evaluation pairs). Best results are in \textbf {bold}.}}{22}{table.caption.19}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces Performance progression of BanglaT5 from 20-epoch to 100-epoch fine-tuning, evaluated on the poly-dialectal test set (18,062 pairs).}}{23}{table.caption.20}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces Comparison with existing state-of-the-art benchmarks. Direct comparison should be interpreted with caution, as different works use different test sets and dialect combinations.}}{25}{table.caption.27}%
-\contentsline {table}{\numberline {6.1}{\ignorespaces End-to-end inference latency and throughput benchmarks for the deployed INT8-quantized model.}}{33}{table.caption.29}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces Comprehensive Summary of Bangla Regional Dialect NLP Resources and Datasets}}{6}{table.2.1}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Source corpus contributions per dialect. Values indicate the number of parallel sentence pairs available from each source.}}{10}{table.caption.8}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Architectural comparison of the three NMT models evaluated in this study.}}{11}{table.caption.9}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Unified hyperparameter matrix for model candidate benchmarking and dataset scaling experiments.}}{12}{table.caption.10}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces Overall performance comparison of the three NMT candidate models fine-tuned for 20 epochs on the poly-dialectal test set (18,062 evaluation pairs). Best results are in \textbf {bold}.}}{16}{table.caption.12}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Performance progression of BanglaT5 from 20-epoch to 100-epoch fine-tuning, evaluated on the poly-dialectal test set (18,062 pairs).}}{17}{table.caption.13}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Comparison with existing state-of-the-art benchmarks. Direct comparison should be interpreted with caution, as different works use different test sets and dialect combinations.}}{19}{table.caption.14}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces End-to-end inference latency and throughput benchmarks for the deployed INT8-quantized model.}}{20}{table.caption.15}%
