@@ -3,8 +3,8 @@
 \contentsline {section}{Certificate of Acceptance}{iii}{section*.3}%
 \contentsline {section}{Acknowledgement}{iv}{section*.4}%
 \contentsline {section}{Abstract}{v}{section*.5}%
-\contentsline {section}{List of Figures}{viii}{section*.6}%
-\contentsline {section}{List of Tables}{x}{section*.7}%
+\contentsline {section}{List of Figures}{vii}{section*.6}%
+\contentsline {section}{List of Tables}{viii}{section*.7}%
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Background and Motivation}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Problem Statement}{1}{subsection.1.2}%
@@ -15,43 +15,43 @@
 \contentsline {subsection}{\numberline {2.2}Dialectal Machine Translation and LLM Benchmarks}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Critical Synthesis and Research Gap}{5}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Summary of Dialectal Resources}{5}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Research Hypothesis and Objectives}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Research Hypothesis}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Research Objectives}{9}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Methodology}{10}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Dataset Construction and Integration}{10}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Data Preprocessing Pipeline}{12}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Model Architectures}{12}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}BanglaT5}{12}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}NLLB-200}{13}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}mBART-50}{13}{subsubsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.4}Hyperparameters}{13}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Dataset Scaling Protocol}{14}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Fine-Tuning Strategy}{14}{subsection.4.6}%
-\contentsline {subsubsection}{\numberline {4.6.1}Stage 1: Best Model Selection}{15}{subsubsection.4.6.1}%
-\contentsline {subsubsection}{\numberline {4.6.2}Stage 2: Extended Training}{15}{subsubsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.7}Multi-Directional Translation Paradigm}{15}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Evaluation Metrics}{16}{subsection.4.8}%
-\contentsline {subsubsection}{\numberline {4.8.1}BLEU (Bilingual Evaluation Understudy)}{16}{subsubsection.4.8.1}%
-\contentsline {subsubsection}{\numberline {4.8.2}chrF++ (Character n-gram F-score)}{16}{subsubsection.4.8.2}%
-\contentsline {subsubsection}{\numberline {4.8.3}METEOR}{17}{subsubsection.4.8.3}%
-\contentsline {subsubsection}{\numberline {4.8.4}TER (Translation Edit Rate)}{17}{subsubsection.4.8.4}%
-\contentsline {section}{\numberline {5}Results and Discussion}{18}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Model Selection (Phase I)}{18}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Final Model Performance (Phase II)}{18}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Overall Metrics}{18}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Cross-Dialectal Translation Analysis}{18}{subsubsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.3}Qualitative Translation Examples}{19}{subsubsection.5.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.4}Error Analysis}{20}{subsubsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.3}Dataset Scaling Analysis}{21}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Comparison with Prior Studies}{22}{subsection.5.4}%
-\contentsline {section}{\numberline {6}Deployment and Application Architecture}{25}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Model Quantization and Serving}{25}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Inference Pipeline and Long Document Processing}{25}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Inference Latency Benchmarks}{25}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}User Interface and Translation Demonstrations}{26}{subsection.6.4}%
-\contentsline {section}{\numberline {7}Limitations and Future Work}{28}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Current Limitations}{28}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Future Directions}{28}{subsection.7.2}%
-\contentsline {section}{\numberline {8}Conclusion}{30}{section.8}%
-\contentsline {section}{References}{32}{section*.33}%
+\contentsline {section}{\numberline {3}Research Hypothesis and Objectives}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Research Hypothesis}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Research Objectives}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Methodology}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Dataset Construction and Integration}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data Preprocessing Pipeline}{15}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Model Architectures}{15}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}BanglaT5}{15}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}NLLB-200}{15}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}mBART-50}{16}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.4}Hyperparameters}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Dataset Scaling Protocol}{17}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Fine-Tuning Strategy}{17}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Stage 1: Best Model Selection}{17}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}Stage 2: Extended Training}{17}{subsubsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.7}Multi-Directional Translation Paradigm}{20}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Evaluation Metrics}{20}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}BLEU (Bilingual Evaluation Understudy)}{20}{subsubsection.4.8.1}%
+\contentsline {subsubsection}{\numberline {4.8.2}chrF++ (Character n-gram F-score)}{20}{subsubsection.4.8.2}%
+\contentsline {subsubsection}{\numberline {4.8.3}METEOR}{21}{subsubsection.4.8.3}%
+\contentsline {subsubsection}{\numberline {4.8.4}TER (Translation Edit Rate)}{21}{subsubsection.4.8.4}%
+\contentsline {section}{\numberline {5}Results and Discussion}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Model Selection (Phase I)}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Final Model Performance (Phase II)}{22}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Overall Metrics}{22}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Cross-Dialectal Translation Analysis}{22}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Qualitative Translation Examples}{23}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}Error Analysis}{24}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}Dataset Scaling Analysis}{25}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Comparison with Prior Studies}{25}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Deployment and Application Architecture}{33}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Model Quantization and Serving}{33}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Inference Pipeline and Long Document Processing}{33}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Inference Latency Benchmarks}{33}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}User Interface and Translation Demonstrations}{34}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Limitations and Future Work}{36}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Current Limitations}{36}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Future Directions}{36}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Conclusion}{38}{section.8}%
+\contentsline {section}{References}{40}{section*.32}%

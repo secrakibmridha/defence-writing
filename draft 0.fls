@@ -163,14 +163,8 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\draft 0.out
-INPUT .\draft 0.out
-INPUT draft 0.out
-INPUT draft 0.out
-OUTPUT draft 0.pdf
-INPUT .\draft 0.out
-INPUT .\draft 0.out
 OUTPUT draft 0.out
+OUTPUT draft 0.pdf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
@@ -189,9 +183,10 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT .\draft 0.toc
-INPUT .\draft 0.toc
-INPUT draft 0.toc
+OUTPUT draft 0.toc
+OUTPUT draft 0.lof
+OUTPUT draft 0.lot
+INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -221,153 +216,26 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT draft 0.toc
-INPUT .\draft 0.lof
-INPUT .\draft 0.lof
-INPUT draft 0.lof
-OUTPUT draft 0.lof
-INPUT .\draft 0.lot
-INPUT .\draft 0.lot
-INPUT draft 0.lot
-OUTPUT draft 0.lot
-INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
-INPUT .\graphics\topology_comparison.pdf
-INPUT .\graphics\topology_comparison.pdf
-INPUT .\graphics\topology_comparison.pdf
-INPUT .\graphics\topology_comparison.pdf
-INPUT .\graphics\topology_comparison.pdf
-INPUT .\graphics\topology_comparison.pdf
-INPUT .\graphics\overview.pdf
-INPUT .\graphics\overview.pdf
-INPUT .\graphics\overview.pdf
-INPUT .\graphics\overview.pdf
-INPUT .\graphics\overview.pdf
-INPUT .\graphics\overview.pdf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
-INPUT .\graphics\dataset_timeline.pdf
-INPUT .\graphics\dataset_timeline.pdf
-INPUT .\graphics\dataset_timeline.pdf
-INPUT .\graphics\dataset_timeline.pdf
-INPUT .\graphics\dataset_timeline.pdf
-INPUT .\graphics\dataset_timeline.pdf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT .\graphics\source_contributions_advanced.pdf
-INPUT .\graphics\source_contributions_advanced.pdf
-INPUT .\graphics\source_contributions_advanced.pdf
-INPUT .\graphics\source_contributions_advanced.pdf
-INPUT .\graphics\source_contributions_advanced.pdf
-INPUT .\graphics\source_contributions_advanced.pdf
-INPUT .\graphics\coverage_matrix_advanced.pdf
-INPUT .\graphics\coverage_matrix_advanced.pdf
-INPUT .\graphics\coverage_matrix_advanced.pdf
-INPUT .\graphics\coverage_matrix_advanced.pdf
-INPUT .\graphics\coverage_matrix_advanced.pdf
-INPUT .\graphics\coverage_matrix_advanced.pdf
-INPUT .\graphics\sentence_lengths.pdf
-INPUT .\graphics\sentence_lengths.pdf
-INPUT .\graphics\sentence_lengths.pdf
-INPUT .\graphics\sentence_lengths.pdf
-INPUT .\graphics\sentence_lengths.pdf
-INPUT .\graphics\sentence_lengths.pdf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti8.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
-INPUT .\graphics\dora_vs_lora.pdf
-INPUT .\graphics\dora_vs_lora.pdf
-INPUT .\graphics\dora_vs_lora.pdf
-INPUT .\graphics\dora_vs_lora.pdf
-INPUT .\graphics\dora_vs_lora.pdf
-INPUT .\graphics\dora_vs_lora.pdf
-INPUT .\graphics\lora_efficiency.pdf
-INPUT .\graphics\lora_efficiency.pdf
-INPUT .\graphics\lora_efficiency.pdf
-INPUT .\graphics\lora_efficiency.pdf
-INPUT .\graphics\lora_efficiency.pdf
-INPUT .\graphics\lora_efficiency.pdf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT .\graphics\model_comparison.pdf
-INPUT .\graphics\model_comparison.pdf
-INPUT .\graphics\model_comparison.pdf
-INPUT .\graphics\model_comparison.pdf
-INPUT .\graphics\model_comparison.pdf
-INPUT .\graphics\model_comparison.pdf
-INPUT .\graphics\bleu_heatmap.pdf
-INPUT .\graphics\bleu_heatmap.pdf
-INPUT .\graphics\bleu_heatmap.pdf
-INPUT .\graphics\bleu_heatmap.pdf
-INPUT .\graphics\bleu_heatmap.pdf
-INPUT .\graphics\bleu_heatmap.pdf
-INPUT .\graphics\proximity_vs_bleu_dual_axis.pdf
-INPUT .\graphics\proximity_vs_bleu_dual_axis.pdf
-INPUT .\graphics\proximity_vs_bleu_dual_axis.pdf
-INPUT .\graphics\proximity_vs_bleu_dual_axis.pdf
-INPUT .\graphics\proximity_vs_bleu_dual_axis.pdf
-INPUT .\graphics\proximity_vs_bleu_dual_axis.pdf
-INPUT .\graphics\directionality.pdf
-INPUT .\graphics\directionality.pdf
-INPUT .\graphics\directionality.pdf
-INPUT .\graphics\directionality.pdf
-INPUT .\graphics\directionality.pdf
-INPUT .\graphics\directionality.pdf
-INPUT .\graphics\error_taxonomy.pdf
-INPUT .\graphics\error_taxonomy.pdf
-INPUT .\graphics\error_taxonomy.pdf
-INPUT .\graphics\error_taxonomy.pdf
-INPUT .\graphics\error_taxonomy.pdf
-INPUT .\graphics\error_taxonomy.pdf
-INPUT .\graphics\dataset_scaling.pdf
-INPUT .\graphics\dataset_scaling.pdf
-INPUT .\graphics\dataset_scaling.pdf
-INPUT .\graphics\dataset_scaling.pdf
-INPUT .\graphics\dataset_scaling.pdf
-INPUT .\graphics\dataset_scaling.pdf
-INPUT .\graphics\comparative_sota.pdf
-INPUT .\graphics\comparative_sota.pdf
-INPUT .\graphics\comparative_sota.pdf
-INPUT .\graphics\comparative_sota.pdf
-INPUT .\graphics\comparative_sota.pdf
-INPUT .\graphics\comparative_sota.pdf
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
-INPUT .\graphics\quantization_radar.pdf
-INPUT .\graphics\quantization_radar.pdf
-INPUT .\graphics\quantization_radar.pdf
-INPUT .\graphics\quantization_radar.pdf
-INPUT .\graphics\quantization_radar.pdf
-INPUT .\graphics\quantization_radar.pdf
-INPUT .\deployement\app_interface_overview.png
-INPUT .\deployement\app_interface_overview.png
-INPUT .\deployement\app_interface_overview.png
-INPUT .\deployement\app_interface_overview.png
-INPUT .\deployement\app_interface_overview.png
-INPUT .\deployement\app_interface_overview.png
-INPUT .\deployement\app_interface_overview.png
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_standard_to_sylheti.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
-INPUT .\deployement\inference_chittagong_to_noakhali.png
 INPUT .\draft 0.bbl
 INPUT .\draft 0.bbl
 INPUT draft 0.bbl
