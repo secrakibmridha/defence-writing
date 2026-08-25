@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 AUG 2026 15:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 AUG 2026 15:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -551,54 +551,54 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ]
 
-LaTeX Warning: Reference `fig:topology' on page 1 undefined on input line 388.
+LaTeX Warning: Reference `fig:topology' on page 1 undefined on input line 374.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.393 ...ection{Proposed System and Contributions}
+l.379 ...ection{Proposed System and Contributions}
                                                    [1
 
 
 
 ]
 
-LaTeX Warning: Reference `fig:overview' on page 2 undefined on input line 394.
+LaTeX Warning: Reference `fig:overview' on page 2 undefined on input line 380.
 
 [2] [3] [4
 
 ]
 
-LaTeX Warning: Reference `fig:timeline' on page 5 undefined on input line 437.
+LaTeX Warning: Reference `fig:timeline' on page 5 undefined on input line 423.
 
 
-Overfull \hbox (2.7408pt too wide) in paragraph at lines 484--484
+Overfull \hbox (2.7408pt too wide) in paragraph at lines 470--470
 []|\OT1/cmr/m/n/10.95 (-20) Comprehensive 
  []
 
 
-Overfull \hbox (16.37648pt too wide) in paragraph at lines 490--490
+Overfull \hbox (16.37648pt too wide) in paragraph at lines 476--476
 \OT1/cmr/m/n/10.95 (-20) tive/Romanized).|  
  []
 
 
-Overfull \hbox (1.6278pt too wide) in paragraph at lines 494--494
+Overfull \hbox (1.6278pt too wide) in paragraph at lines 480--480
 []|\OT1/cmr/m/n/10.95 (-20) BanglaCHQ- 
  []
 
 
-Overfull \hbox (1.6278pt too wide) in paragraph at lines 498--498
+Overfull \hbox (1.6278pt too wide) in paragraph at lines 484--484
 []|\OT1/cmr/m/n/10.95 (-20) BanglaCHQ- 
  []
 
 
-Overfull \hbox (1.55458pt too wide) in paragraph at lines 500--500
+Overfull \hbox (1.55458pt too wide) in paragraph at lines 486--486
 \OT1/cmr/m/n/10.95 (-20) tences/region).|  
  []
 
 [5] [6] [7] [8]
-Overfull \hbox (2.64827pt too wide) in paragraph at lines 520--521
+Overfull \hbox (2.64827pt too wide) in paragraph at lines 506--507
 \OT1/cmr/m/n/12 (-20) multilingual NMT architectures---BanglaT5 [[]2[]], NLLB-200 [[]22[]], and mBART-50 [[]33[]]---
  []
 
@@ -606,71 +606,71 @@ Overfull \hbox (2.64827pt too wide) in paragraph at lines 520--521
 
 ]
 
-LaTeX Warning: Reference `fig:dataset_composition' on page 10 undefined on input line 558.
+LaTeX Warning: Reference `fig:dataset_composition' on page 10 undefined on input line 544.
 
 
-LaTeX Warning: Reference `fig:coverage_matrix' on page 10 undefined on input line 558.
+LaTeX Warning: Reference `fig:coverage_matrix' on page 10 undefined on input line 544.
 
 
-LaTeX Warning: Reference `fig:sentence_lengths' on page 10 undefined on input line 564.
+LaTeX Warning: Reference `fig:sentence_lengths' on page 10 undefined on input line 550.
 
 [10
 
 ] [11] [12]
 
-LaTeX Warning: Reference `fig:dora_vs_lora' on page 13 undefined on input line 680.
+LaTeX Warning: Reference `fig:dora_vs_lora' on page 13 undefined on input line 666.
 
 
-LaTeX Warning: Reference `fig:lora_efficiency' on page 13 undefined on input line 680.
+LaTeX Warning: Reference `fig:lora_efficiency' on page 13 undefined on input line 666.
 
 [13] [14] [15]
 
-LaTeX Warning: Reference `fig:model_comparison' on page 16 undefined on input line 782.
+LaTeX Warning: Reference `fig:model_comparison' on page 16 undefined on input line 768.
 
 
-LaTeX Warning: Reference `fig:bleu_heatmap' on page 16 undefined on input line 787.
+LaTeX Warning: Reference `fig:bleu_heatmap' on page 16 undefined on input line 773.
 
 [16
 
 ]
 
-LaTeX Warning: Reference `fig:proximity_bleu' on page 17 undefined on input line 792.
+LaTeX Warning: Reference `fig:proximity_bleu' on page 17 undefined on input line 778.
 
 
-LaTeX Warning: Reference `fig:directionality' on page 17 undefined on input line 798.
+LaTeX Warning: Reference `fig:directionality' on page 17 undefined on input line 784.
 
 
-LaTeX Warning: Reference `tab:qualitative' on page 17 undefined on input line 807.
+LaTeX Warning: Reference `tab:qualitative' on page 17 undefined on input line 793.
 
 
-LaTeX Warning: Reference `fig:error_analysis' on page 17 undefined on input line 814.
+LaTeX Warning: Reference `fig:error_analysis' on page 17 undefined on input line 800.
 
 [17]
 
-LaTeX Warning: Reference `fig:scaling' on page 18 undefined on input line 832.
+LaTeX Warning: Reference `fig:scaling' on page 18 undefined on input line 818.
 
 
-LaTeX Warning: Reference `fig:comparative_sota' on page 18 undefined on input line 857.
+LaTeX Warning: Reference `fig:comparative_sota' on page 18 undefined on input line 843.
 
 [18] [19]
 
-LaTeX Warning: Reference `fig:quantization' on page 20 undefined on input line 870.
+LaTeX Warning: Reference `fig:quantization' on page 20 undefined on input line 856.
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 873.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 859.
 (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 873.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 859.
 
 
-LaTeX Warning: Reference `fig:deployment_ui' on page 20 undefined on input line 898.
+LaTeX Warning: Reference `fig:deployment_ui' on page 20 undefined on input line 884.
 
 
-LaTeX Warning: Reference `fig:deploy_sylheti' on page 20 undefined on input line 898.
+LaTeX Warning: Reference `fig:deploy_sylheti' on page 20 undefined on input line 884.
 
 
-LaTeX Warning: Reference `fig:deploy_direct' on page 20 undefined on input line 898.
+LaTeX Warning: Reference `fig:deploy_direct' on page 20 undefined on input line 884.
 
 [20
 
@@ -696,17 +696,17 @@ Package rerunfilecheck Info: File `"draft 0".out' has not changed.
 (rerunfilecheck)             Checksum: AE33909E0632DF29209A9377ECCC410B;10457.
  ) 
 Here is how much of TeX's memory you used:
- 16099 strings out of 467501
- 257914 string characters out of 5408550
+ 16102 strings out of 467501
+ 257945 string characters out of 5408550
  755130 words of memory out of 5000000
  44672 multiletter control sequences out of 15000+600000
- 647753 words of font info for 218 fonts, out of 8000000 for 9000
+ 647871 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,14n,79p,2027b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "draft 0.pdf" (38 pages, 1266360 bytes).
+Output written on "draft 0.pdf" (38 pages, 1266015 bytes).
 PDF statistics:
- 761 PDF objects out of 1000 (max. 8388607)
- 176 named destinations out of 1000 (max. 500000)
+ 760 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
  38350 words of extra memory for PDF output out of 42996 (max. 10000000)
 
