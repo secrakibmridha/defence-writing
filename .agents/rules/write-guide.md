@@ -1,6 +1,5 @@
 ---
 trigger: always_on
-glob: "**/*.{tex,bib,md}"
 description: "Enforces Q1-journal-quality academic writing standards for an undergraduate Civil Engineering thesis."
 ---
 

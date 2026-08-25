@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 AUG 2026 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 AUG 2026 17:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,26 +512,14 @@ Package microtype Info: No adjustment of character kerning.
  (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-<graphics/sec logo.png, id=71, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=55, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 123.
 (pdftex.def)             Requested size: 113.24197pt x 113.23526pt.
  [1
 
-{C:/Users/Rakib/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./graphics/sec logo.png>] [1] [2] [3] [4] [5] (draft 0.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
- (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
- (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
+{C:/Users/Rakib/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./graphics/sec logo.png>] [1] [2] [3] [4] [5] (draft 0.toc)
 \tf@toc=\write4
 \openout4 = `"draft 0.toc"'.
 
@@ -553,18 +541,14 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.381 
-       [1
+l.375 \section{Literature Review}
+                                  [1
 
 
 
-] [2] [3
+] [2
 
-] (draft 0.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [4
+] (draft 0.bbl) [3
 
 
 ] (draft 0.aux)
@@ -573,20 +557,20 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
 Package rerunfilecheck Info: File `"draft 0".out' has not changed.
-(rerunfilecheck)             Checksum: 855C19ED819BACF0F9B52EA8960F2CFE;2426.
+(rerunfilecheck)             Checksum: CA15B08406D12A10C7973305F6307827;1743.
  ) 
 Here is how much of TeX's memory you used:
- 15541 strings out of 467501
- 250078 string characters out of 5408550
- 712358 words of memory out of 5000000
- 44462 multiletter control sequences out of 15000+600000
- 636551 words of font info for 104 fonts, out of 8000000 for 9000
+ 15467 strings out of 467501
+ 248656 string characters out of 5408550
+ 712683 words of memory out of 5000000
+ 44401 multiletter control sequences out of 15000+600000
+ 633137 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,5n,79p,1193b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "draft 0.pdf" (13 pages, 886722 bytes).
+ 74i,5n,79p,1025b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "draft 0.pdf" (12 pages, 904712 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 20622 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 18542 words of extra memory for PDF output out of 20736 (max. 10000000)
 
