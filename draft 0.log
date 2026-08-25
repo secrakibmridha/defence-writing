@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 AUG 2026 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 AUG 2026 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,7 +512,7 @@ Package microtype Info: No adjustment of character kerning.
  (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-<graphics/sec logo.png, id=231, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=71, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 123.
@@ -531,182 +531,62 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [6
-
-])
+))
 \tf@toc=\write4
 \openout4 = `"draft 0.toc"'.
 
- [7] (draft 0.lof)
+ [6
+
+] (draft 0.lof)
 \tf@lof=\write5
 \openout5 = `"draft 0.lof"'.
 
- [8
+ [7
 
 ] (draft 0.lot)
 \tf@lot=\write6
 \openout6 = `"draft 0.lot"'.
 
- [9
+ [8
 
 ]
-
-LaTeX Warning: Reference `fig:topology' on page 1 undefined on input line 374.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.379 ...ection{Proposed System and Contributions}
-                                                   [1
+l.381 
+       [1
 
 
 
-]
+] [2] [3
 
-LaTeX Warning: Reference `fig:overview' on page 2 undefined on input line 380.
+] (draft 0.bbl
 
-[2] [3] [4
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-]
-
-LaTeX Warning: Reference `fig:timeline' on page 5 undefined on input line 423.
+) [4
 
 
-Overfull \hbox (2.7408pt too wide) in paragraph at lines 470--470
-[]|\OT1/cmr/m/n/10.95 (-20) Comprehensive 
- []
-
-
-Overfull \hbox (16.37648pt too wide) in paragraph at lines 476--476
-\OT1/cmr/m/n/10.95 (-20) tive/Romanized).|  
- []
-
-
-Overfull \hbox (1.6278pt too wide) in paragraph at lines 480--480
-[]|\OT1/cmr/m/n/10.95 (-20) BanglaCHQ- 
- []
-
-
-Overfull \hbox (1.6278pt too wide) in paragraph at lines 484--484
-[]|\OT1/cmr/m/n/10.95 (-20) BanglaCHQ- 
- []
-
-
-Overfull \hbox (1.55458pt too wide) in paragraph at lines 486--486
-\OT1/cmr/m/n/10.95 (-20) tences/region).|  
- []
-
-[5] [6] [7] [8]
-Overfull \hbox (2.64827pt too wide) in paragraph at lines 506--507
-\OT1/cmr/m/n/12 (-20) multilingual NMT architectures---BanglaT5 [[]2[]], NLLB-200 [[]22[]], and mBART-50 [[]33[]]---
- []
-
-[9
-
-]
-
-LaTeX Warning: Reference `fig:dataset_composition' on page 10 undefined on input line 544.
-
-
-LaTeX Warning: Reference `fig:coverage_matrix' on page 10 undefined on input line 544.
-
-
-LaTeX Warning: Reference `fig:sentence_lengths' on page 10 undefined on input line 550.
-
-[10
-
-] [11] [12]
-
-LaTeX Warning: Reference `fig:dora_vs_lora' on page 13 undefined on input line 666.
-
-
-LaTeX Warning: Reference `fig:lora_efficiency' on page 13 undefined on input line 666.
-
-[13] [14] [15]
-
-LaTeX Warning: Reference `fig:model_comparison' on page 16 undefined on input line 768.
-
-
-LaTeX Warning: Reference `fig:bleu_heatmap' on page 16 undefined on input line 773.
-
-[16
-
-]
-
-LaTeX Warning: Reference `fig:proximity_bleu' on page 17 undefined on input line 778.
-
-
-LaTeX Warning: Reference `fig:directionality' on page 17 undefined on input line 784.
-
-
-LaTeX Warning: Reference `tab:qualitative' on page 17 undefined on input line 793.
-
-
-LaTeX Warning: Reference `fig:error_analysis' on page 17 undefined on input line 800.
-
-[17]
-
-LaTeX Warning: Reference `fig:scaling' on page 18 undefined on input line 818.
-
-
-LaTeX Warning: Reference `fig:comparative_sota' on page 18 undefined on input line 843.
-
-[18] [19]
-
-LaTeX Warning: Reference `fig:quantization' on page 20 undefined on input line 856.
-
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 859.
-(C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
-File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 859.
-
-
-LaTeX Warning: Reference `fig:deployment_ui' on page 20 undefined on input line 884.
-
-
-LaTeX Warning: Reference `fig:deploy_sylheti' on page 20 undefined on input line 884.
-
-
-LaTeX Warning: Reference `fig:deploy_direct' on page 20 undefined on input line 884.
-
-[20
-
-] [21] [22
-
-] [23] [24
-
-] [25
-
-] (draft 0.bbl [26
-
-
-] [27]) [28] (draft 0.aux)
+] (draft 0.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `"draft 0".out' has not changed.
-(rerunfilecheck)             Checksum: AE33909E0632DF29209A9377ECCC410B;10457.
+(rerunfilecheck)             Checksum: 855C19ED819BACF0F9B52EA8960F2CFE;2426.
  ) 
 Here is how much of TeX's memory you used:
- 16102 strings out of 467501
- 257945 string characters out of 5408550
- 755130 words of memory out of 5000000
- 44672 multiletter control sequences out of 15000+600000
- 647871 words of font info for 220 fonts, out of 8000000 for 9000
+ 15541 strings out of 467501
+ 250078 string characters out of 5408550
+ 712358 words of memory out of 5000000
+ 44462 multiletter control sequences out of 15000+600000
+ 636551 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,14n,79p,2027b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "draft 0.pdf" (38 pages, 1265976 bytes).
+ 74i,5n,79p,1193b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "draft 0.pdf" (13 pages, 886722 bytes).
 PDF statistics:
- 760 PDF objects out of 1000 (max. 8388607)
- 175 named destinations out of 1000 (max. 500000)
- 38350 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 20622 words of extra memory for PDF output out of 20736 (max. 10000000)
 
