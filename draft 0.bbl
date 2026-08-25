@@ -1,4 +1,10 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{ahmed2019economic}
+S.~Ahmed and S.~Mahmud.
+\newblock Economic evaluation of road construction materials in {South Asia}.
+\newblock {\em International Journal of Construction Management},
+  19(5):385--396, 2019.
 
 \bibitem{ahmed2021rutting}
 S.~Ahmed, M.~M. Rahman, and M.~Z. Hossain.
@@ -7,11 +13,48 @@ S.~Ahmed, M.~M. Rahman, and M.~Z. Hossain.
 \newblock {\em International Journal of Pavement Engineering},
   22(10):1245--1256, 2021.
 
+\bibitem{alam2018performance}
+J.~Alam and M.~Bari.
+\newblock Performance-based specifications for asphalt binders in
+  high-temperature climates.
+\newblock {\em Materials Today: Proceedings}, 5(9):18945--18952, 2018.
+
+\bibitem{ali2018quality}
+M.~Ali and K.~Hossain.
+\newblock Quality control of imported bitumen in developing countries: Impacts
+  on pavement longevity.
+\newblock {\em Construction and Building Materials}, 172:354--365, 2018.
+
+\bibitem{chowdhury2022rutting}
+S.~Chowdhury and T.~Rahman.
+\newblock Rutting susceptibility of flexible pavements in high heat: A case
+  study in {Bangladesh}.
+\newblock {\em Transportation Research Record}, 2676(4):112--124, 2022.
+
+\bibitem{das2017effect}
+A.~Das and B.~B. Pandey.
+\newblock Effect of aggregate shape on the interlocking mechanism of bituminous
+  mixes.
+\newblock {\em International Journal of Pavement Engineering}, 18(7):598--607,
+  2017.
+
+\bibitem{hasan2021impact}
+T.~Hasan and M.~Rahman.
+\newblock Impact of climate change on flexible pavement performance in
+  {Bangladesh}.
+\newblock {\em Sustainability}, 13(11):6124, 2021.
+
 \bibitem{hossain2020comparative}
 M.~A. Hossain and M.~A. Ali.
 \newblock Comparative analysis of 60/70 and 80/100 grade bitumen for
   climate-resilient road construction in bangladesh.
 \newblock {\em Journal of Engineering Science}, 11(1):45--54, 2020.
+
+\bibitem{hossain2023comparative}
+Z.~Hossain and R.~Tarefder.
+\newblock Comparative performance of polymer modified bitumen and conventional
+  binders under tropical monsoon conditions.
+\newblock {\em Road Materials and Pavement Design}, 24(1):89--104, 2023.
 
 \bibitem{islam2019performance}
 M.~S. Islam and R.~A. Tarefder.
@@ -20,6 +63,19 @@ M.~S. Islam and R.~A. Tarefder.
 \newblock {\em Journal of Materials in Civil Engineering}, 31(4):04019015,
   2019.
 
+\bibitem{islam2022marshall}
+S.~Islam and M.~Haque.
+\newblock Marshall mix design optimization using proportionate cubical
+  aggregates.
+\newblock {\em Civil Engineering Journal}, 8(4):684--697, 2022.
+
+\bibitem{karim2021moisture}
+M.~A. Karim and M.~Hasan.
+\newblock Moisture susceptibility and stripping potential of bituminous mixes
+  in monsoon regions.
+\newblock {\em Journal of Transportation Engineering, Part B: Pavements},
+  147(3):04021021, 2021.
+
 \bibitem{khairandish2020influence}
 Mohammad~Iqbal Khairandish and Avani Chopra.
 \newblock Influence of size and shape of aggregate on the mechanical response
@@ -27,6 +83,25 @@ Mohammad~Iqbal Khairandish and Avani Chopra.
 \newblock {\em International Research Journal of Engineering and Technology
   (IRJET)}, 7(2), February 2020.
 \newblock e-ISSN: 2395-0056, p-ISSN: 2395-0072.
+
+\bibitem{kumar2019viscosity}
+R.~Kumar and A.~Sharma.
+\newblock Evaluation of viscosity graded bitumen for high-temperature pavement
+  performance in tropical climates.
+\newblock {\em International Journal of Pavement Research and Technology},
+  12(3):245--256, 2019.
+
+\bibitem{mahmud2022evaluation}
+R.~Mahmud and M.~Islam.
+\newblock Evaluation of local laboratory grade bitumen vs. imported variants: A
+  mechanical and rheological study.
+\newblock {\em Journal of Engineering Research}, 10(2):214--228, 2022.
+
+\bibitem{rahman2020life}
+M.~A. Rahman and M.~A. Kamal.
+\newblock Life cycle cost analysis of flexible vs. rigid pavements for major
+  highways in {Bangladesh}.
+\newblock {\em Journal of Infrastructure Systems}, 26(2):04020015, 2020.
 
 \bibitem{rahman2018effect}
 T.~Rahman, M.~Hossain, and M.~A. Bari.
@@ -44,6 +119,19 @@ Samuel~Simron Rajkumar~J, M.~M. Vijayalakshmi, and S.~Lakshmi.
 \newblock Article ID: IJCIET\_09\_12\_052, ISSN Print: 0976-6308, ISSN Online:
   0976-6316.
 
+\bibitem{sharma2020influence}
+V.~Sharma and S.~Chandra.
+\newblock Influence of flaky and elongated aggregates on the volumetric
+  properties and rutting resistance of hot mix asphalt.
+\newblock {\em Construction and Building Materials}, 235:117454, 2020.
+
+\bibitem{singh2021superpave}
+P.~Singh and M.~Gupta.
+\newblock Adoption of {Superpave} performance grading in developing nations:
+  Challenges and opportunities.
+\newblock {\em Journal of Materials in Civil Engineering}, 33(8):04021182,
+  2021.
+
 \bibitem{sumanth2017study}
 S.~Sumanth, R.~Suhas, and S.~P. Mahendra.
 \newblock A study on the influence of shape of coarse aggregates on strength of
@@ -52,6 +140,13 @@ S.~Sumanth, R.~Suhas, and S.~P. Mahendra.
   (IJRTI)}, 2(9), 2017.
 \newblock Paper ID: IJRTI1709001, ISSN: 2456-3315.
 
+\bibitem{tariq2020durability}
+A.~Tariq and M.~Kamal.
+\newblock Durability assessment of bituminous pavements under heavy traffic
+  overloading in developing countries.
+\newblock {\em International Journal of Transportation Science and Technology},
+  9(2):112--125, 2020.
+
 \bibitem{teja2020effect}
 Yeramolu~Pavan Teja and Karanam~Hari Krishna.
 \newblock Effect of coarse aggregates shape factors on rutting characteristics
@@ -59,5 +154,17 @@ Yeramolu~Pavan Teja and Karanam~Hari Krishna.
 \newblock {\em International Journal of Advances in Engineering and Management
   (IJAEM)}, 2(3):454--462, August 2020.
 \newblock ISSN: 2395-5252.
+
+\bibitem{uddin2019cost}
+M.~Uddin and A.~Hossain.
+\newblock Cost-effectiveness of flexible pavements with modified binders in
+  heavy traffic corridors.
+\newblock {\em Transportation Research Procedia}, 39:402--411, 2019.
+
+\bibitem{zaman2017sustainable}
+M.~Zaman and S.~Ahsan.
+\newblock Sustainable road infrastructure using local materials in {South
+  Asia}: A review.
+\newblock {\em Renewable and Sustainable Energy Reviews}, 76:518--529, 2017.
 
 \end{thebibliography}
