@@ -4,67 +4,47 @@ The top-level auxiliary file: draft 0.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 12 items.
+I found no \citation commands---while reading file draft 0.aux
 Database file #1: biblography.bib
-Warning--I didn't find a database entry for "ahmed2021rutting"
-Warning--I didn't find a database entry for "hossain2020comparative"
-Warning--I didn't find a database entry for "rahman2018effect"
-Warning--I didn't find a database entry for "islam2019performance"
-Warning--I didn't find a database entry for "kumar2019viscosity"
-Warning--I didn't find a database entry for "hasan2021impact"
-Warning--I didn't find a database entry for "chowdhury2022rutting"
-Warning--I didn't find a database entry for "alam2018performance"
-Warning--I didn't find a database entry for "zaman2017sustainable"
-Warning--I didn't find a database entry for "singh2021superpave"
-Warning--I didn't find a database entry for "mahmud2022evaluation"
-Warning--I didn't find a database entry for "ali2018quality"
-Warning--I didn't find a database entry for "hossain2023comparative"
-Warning--I didn't find a database entry for "karim2021moisture"
-Warning--I didn't find a database entry for "das2017effect"
-Warning--I didn't find a database entry for "sharma2020influence"
-Warning--I didn't find a database entry for "islam2022marshall"
-Warning--I didn't find a database entry for "tariq2020durability"
-Warning--I didn't find a database entry for "rahman2020life"
-Warning--I didn't find a database entry for "ahmed2019economic"
-Warning--I didn't find a database entry for "uddin2019cost"
-You've used 4 entries,
+You've used 0 entries,
             2118 wiz_defined-function locations,
-            546 strings with 5514 characters,
-and the built_in function-call counts, 1290 in all, are:
-= -- 130
-> -- 62
+            497 strings with 3998 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
 < -- 0
-+ -- 25
-- -- 20
-* -- 102
-:= -- 231
-add.period$ -- 16
-call.type$ -- 4
-change.case$ -- 22
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 42
-empty$ -- 91
-format.name$ -- 20
-if$ -- 255
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 4
-newline$ -- 27
-num.names$ -- 8
-pop$ -- 10
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 0
 quote$ -- 0
-skip$ -- 32
+skip$ -- 1
 stack$ -- 0
-substring$ -- 71
-swap$ -- 4
+substring$ -- 0
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
+type$ -- 0
 warning$ -- 0
-while$ -- 12
-width$ -- 5
-write$ -- 54
-(There were 21 warnings)
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)
