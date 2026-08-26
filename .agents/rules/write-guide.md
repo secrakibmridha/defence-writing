@@ -84,8 +84,7 @@ description: "Enforces Q1-journal-quality academic writing standards for an unde
 3. **Avoid orphan citations**: Don't just drop `\cite{X}` — integrate it: *"Teja and Krishna \cite{teja2020effect} demonstrated that flaky aggregates reduce rutting resistance by up to 23%."*
 4. **Prefer primary sources** (journal articles, conference proceedings) over textbooks or websites.
 5. **Recency**: Prioritise references from the last 10 years (2016–2026). Older references are acceptable for foundational concepts.
-6. **Minimum references**: An undergraduate thesis should cite **at least 25–40 references**. Currently the `.bib` file has only 8 — this must be expanded substantially.
-7. **BibTeX hygiene**:
+
    - Every entry must have `author`, `title`, `year`, and `journal`/`booktitle`.
    - Use `doi` fields whenever available — they are the most durable identifiers.
    - Use consistent key naming: `{firstauthorlastname}{year}{keyword}` (e.g., `islam2019performance`).

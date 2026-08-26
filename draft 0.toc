@@ -6,8 +6,30 @@
 \contentsline {section}{List of Figures}{vii}{section*.6}%
 \contentsline {section}{List of Tables}{viii}{section*.7}%
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {section}{\numberline {2}Literature Review}{1}{section.2}%
-\contentsline {section}{\numberline {3}Methodology}{1}{section.3}%
-\contentsline {section}{\numberline {4}Results and Discussion}{1}{section.4}%
-\contentsline {section}{\numberline {5}Conclusion}{1}{section.5}%
-\contentsline {section}{References}{2}{section*.8}%
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Objectives of the Study}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Scope and Limitations}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Thesis Organisation}{3}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Literature Review}{4}{section.2}%
+\contentsline {section}{\numberline {3}Methodology}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}General}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Materials}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Bitumen}{4}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Aggregates}{4}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Mineral Filler}{6}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Aggregate Gradation and Blending}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Aggregate Shape Classification}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Mix Design}{7}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Mix Combinations}{7}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Specimen Preparation}{8}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Optimum Binder Content Determination}{9}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Testing Programme}{9}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Marshall Stability and Flow Test}{9}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Indirect Tensile Strength (ITS) Test}{9}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}Retained Stability Test (Moisture Susceptibility)}{9}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {3.6.4}Volumetric Analysis}{10}{subsubsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.7}Summary of Test Matrix}{10}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Results and Discussion}{11}{section.4}%
+\contentsline {section}{\numberline {5}Conclusion}{11}{section.5}%
+\contentsline {section}{References}{12}{section*.17}%

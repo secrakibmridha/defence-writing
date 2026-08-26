@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  26 AUG 2026 20:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  26 AUG 2026 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -467,7 +467,7 @@ Package hyperref Info: Link coloring OFF on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<graphics/sec logo.png, id=55, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=143, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 123.
@@ -484,7 +484,20 @@ Overfull \hbox (1.2788pt too wide) in paragraph at lines 325--326
 []\OT1/cmr/m/n/12 We are very thank-ful to our hon-or-able su-per-vi-sor Md Jo-hir Bin Alam and co-supervisor
  []
 
-[4] [5] (draft 0.toc)
+[4]
+Overfull \hbox (27.17561pt too wide) in paragraph at lines 345--346
+\OT1/cmr/bx/n/10.95 Keywords: \OT1/cmr/m/n/10.95 bi-tu-men, ag-gre-gate shape, Mar-shall sta-bil-ity, cu-bi-cal ag-gre-gate, Bangladesh,
+ []
+
+[5] (draft 0.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+ (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+ (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `"draft 0.toc"'.
 
@@ -506,16 +519,49 @@ Overfull \hbox (1.2788pt too wide) in paragraph at lines 325--326
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.375 \clearpage
-                 [1
+l.378 
+       [1
 
 
 
-] (draft 0.bbl
+] [2] [3]
+<graphics/methodology_flowchart.pdf, id=278, 570.93298pt x 787.74298pt>
+File: graphics/methodology_flowchart.pdf Graphic file (type pdf)
+<use graphics/methodology_flowchart.pdf>
+Package pdftex.def Info: graphics/methodology_flowchart.pdf  used on input line 419.
+(pdftex.def)             Requested size: 385.02547pt x 531.25882pt.
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+Overfull \hbox (11.98177pt too wide) in paragraph at lines 474--488
+ [][] 
+ []
 
-) [2
+[4
+
+] [5 <./graphics/methodology_flowchart.pdf>]
+<graphics/gradation_curve.pdf, id=368, 498.41772pt x 317.75684pt>
+File: graphics/gradation_curve.pdf Graphic file (type pdf)
+<use graphics/gradation_curve.pdf>
+Package pdftex.def Info: graphics/gradation_curve.pdf  used on input line 529.
+(pdftex.def)             Requested size: 407.66833pt x 259.90286pt.
+ [6]
+<graphics/zingg_diagram.pdf, id=375, 393.27426pt x 387.43997pt>
+File: graphics/zingg_diagram.pdf Graphic file (type pdf)
+<use graphics/zingg_diagram.pdf>
+Package pdftex.def Info: graphics/zingg_diagram.pdf  used on input line 554.
+(pdftex.def)             Requested size: 317.07614pt x 312.38808pt.
+
+Overfull \hbox (24.6845pt too wide) in paragraph at lines 569--579
+ [][] 
+ []
+
+[7 <./graphics/gradation_curve.pdf>] [8 <./graphics/zingg_diagram.pdf>] [9]
+Overfull \hbox (88.05377pt too wide) in paragraph at lines 633--644
+ [][] 
+ []
+
+[10] [11
+
+] (draft 0.bbl) [12
 
 
 ] (draft 0.aux)
@@ -524,20 +570,20 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
 Package rerunfilecheck Info: File `"draft 0".out' has not changed.
-(rerunfilecheck)             Checksum: CA15B08406D12A10C7973305F6307827;1743.
+(rerunfilecheck)             Checksum: 4AC3DF335C734AF6039DB49F995023B6;5520.
  ) 
 Here is how much of TeX's memory you used:
- 13470 strings out of 467501
- 214831 string characters out of 5408550
- 645193 words of memory out of 5000000
- 42516 multiletter control sequences out of 15000+600000
- 630145 words of font info for 48 fonts, out of 8000000 for 9000
+ 13668 strings out of 467501
+ 218642 string characters out of 5408550
+ 657525 words of memory out of 5000000
+ 42637 multiletter control sequences out of 15000+600000
+ 635176 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,5n,79p,630b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "draft 0.pdf" (11 pages, 877322 bytes).
+ 74i,10n,79p,2013b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "draft 0.pdf" (21 pages, 1104171 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 614 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
