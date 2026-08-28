@@ -3,8 +3,8 @@
 \contentsline {section}{Certificate of Acceptance}{iii}{section*.3}%
 \contentsline {section}{Acknowledgement}{iv}{section*.4}%
 \contentsline {section}{Abstract}{v}{section*.5}%
-\contentsline {section}{List of Figures}{vii}{section*.6}%
-\contentsline {section}{List of Tables}{viii}{section*.7}%
+\contentsline {section}{List of Figures}{viii}{section*.6}%
+\contentsline {section}{List of Tables}{ix}{section*.7}%
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Problem Statement}{1}{subsection.1.2}%
@@ -26,10 +26,11 @@
 \contentsline {subsubsection}{\numberline {3.5.3}Optimum Binder Content Determination}{9}{subsubsection.3.5.3}%
 \contentsline {subsection}{\numberline {3.6}Testing Programme}{9}{subsection.3.6}%
 \contentsline {subsubsection}{\numberline {3.6.1}Marshall Stability and Flow Test}{9}{subsubsection.3.6.1}%
-\contentsline {subsubsection}{\numberline {3.6.2}Indirect Tensile Strength (ITS) Test}{9}{subsubsection.3.6.2}%
-\contentsline {subsubsection}{\numberline {3.6.3}Retained Stability Test (Moisture Susceptibility)}{9}{subsubsection.3.6.3}%
-\contentsline {subsubsection}{\numberline {3.6.4}Volumetric Analysis}{10}{subsubsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.7}Summary of Test Matrix}{10}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.6.2}Volumetric Analysis}{9}{subsubsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.7}Summary of Test Matrix}{9}{subsection.3.7}%
 \contentsline {section}{\numberline {4}Results and Discussion}{11}{section.4}%
 \contentsline {section}{\numberline {5}Conclusion}{11}{section.5}%
-\contentsline {section}{References}{12}{section*.17}%
+\contentsline {subsection}{\numberline {5.1}Summary of Findings}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Recommendations for Practice}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Future Work}{11}{subsection.5.3}%
+\contentsline {section}{References}{13}{section*.17}%

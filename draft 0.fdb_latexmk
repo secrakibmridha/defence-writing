@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex draft 0"] 1787765928.28701 "draft 0.aux" "draft 0.bbl" "draft 0" 1787766949.81106 0
+["bibtex draft 0"] 1787927030.51816 "draft 0.aux" "draft 0.bbl" "draft 0" 1787927032.65229 0
   "./biblography.bib" 1787754749 3104 9a669582f9b327d173ec3db710b2980b ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "draft 0.aux" 1787766948 8068 6c2385ec2ebff91dc794eb0e6782617d "pdflatex"
+  "draft 0.aux" 1787927031 8032 5b29fe7a918ecd59571e94b5c2fc77ab "pdflatex"
   (generated)
   "draft 0.bbl"
   "draft 0.blg"
   (rewritten before read)
-["pdflatex"] 1787766947.21962 "d:/defence writing/draft 0.tex" "draft 0.pdf" "draft 0" 1787766949.81194 0
+["pdflatex"] 1787927030.79857 "d:/defence writing/draft 0.tex" "draft 0.pdf" "draft 0" 1787927032.6528 0
   "C:/Users/Rakib/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1787589185 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Rakib/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1787589290 14064 2536f020c53fbecc49e989b679eeb98b ""
   "C:/Users/Rakib/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1787589005 13367606 8f3d22dfe108f80e09fac760b574647f ""
@@ -113,18 +113,18 @@
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "d:/defence writing/draft 0.tex" 1787766946 33134 6afd14db766521736162cf7e6b1645be ""
-  "draft 0.aux" 1787766948 8068 6c2385ec2ebff91dc794eb0e6782617d "pdflatex"
-  "draft 0.bbl" 1787765928 2430 fa247bc2fc6bd32415e22f1d46c6fbef "bibtex draft 0"
-  "draft 0.lof" 1787766948 477 b51186817bfe7f38ce6152b1a0ba86ae "pdflatex"
-  "draft 0.lot" 1787766948 802 7a2a11322fc4d3f736eb614d25ae50f0 "pdflatex"
-  "draft 0.out" 1787766948 5520 4ac3df335c734af6039db49f995023b6 "pdflatex"
-  "draft 0.tex" 1787766946 33134 6afd14db766521736162cf7e6b1645be ""
-  "draft 0.toc" 1787766948 2865 6dd15b612688698626a40bbc89266aa0 "pdflatex"
-  "graphics/gradation_curve.pdf" 1787765592 23911 9756b8f77129e56a0c44cd726143fade ""
-  "graphics/methodology_flowchart.pdf" 1787765592 31874 3c763f6b5e064c0e41493d9753334274 ""
+  "d:/defence writing/draft 0.tex" 1787927029 34320 9ddcb9c01b7fcaee52f29ddc43e9f32d ""
+  "draft 0.aux" 1787927031 8032 5b29fe7a918ecd59571e94b5c2fc77ab "pdflatex"
+  "draft 0.bbl" 1787927030 2430 fa247bc2fc6bd32415e22f1d46c6fbef "bibtex draft 0"
+  "draft 0.lof" 1787927031 477 b51186817bfe7f38ce6152b1a0ba86ae "pdflatex"
+  "draft 0.lot" 1787927031 802 7a2a11322fc4d3f736eb614d25ae50f0 "pdflatex"
+  "draft 0.out" 1787927031 5402 6fffce3478262937aa877c98e84fdfe1 "pdflatex"
+  "draft 0.tex" 1787927029 34320 9ddcb9c01b7fcaee52f29ddc43e9f32d ""
+  "draft 0.toc" 1787927031 2884 37a9c3a0c294f564f25cda176c1a5742 "pdflatex"
+  "graphics/gradation_curve.pdf" 1787926812 23911 41cea98cedaf97eb3bec76252bd03e9f ""
+  "graphics/methodology_flowchart.pdf" 1787926812 31841 1c2ff4387707121e42a87cd536e73ce9 ""
   "graphics/sec logo.png" 1787589517 768918 1095ce53622e2ab0a792ea25fde3d21d ""
-  "graphics/zingg_diagram.pdf" 1787765592 34999 8a8971f7f2443dee0dda7fe4919fdb5b ""
+  "graphics/zingg_diagram.pdf" 1787926812 34999 170d91e77af37a81ab9a3e0b1274be4d ""
   (generated)
   "draft 0.aux"
   "draft 0.lof"

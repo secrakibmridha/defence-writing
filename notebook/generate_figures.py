@@ -213,7 +213,7 @@ def plot_methodology_flowchart():
         (5, 8.8,  'Step 5: Mix Batching (1200 gm/specimen)\nMix-1 to Mix-4 Preparation', box_props),
         (5, 7.2,  'Step 6: OBC Determination from Mix-1\n(4.0%, 4.5%, 5.0%, 5.5%, 6.0%) → OBC = 5.0%', decision_props),
         (5, 5.6,  'Step 7: Mixing (150°C) & Compaction\n(Marshall Hammer, 75 blows/face)', box_props),
-        (5, 4.0,  'Step 8: Performance Testing\nMarshall Stability | ITS | Retained Stability', box_props),
+        (5, 4.0,  'Step 8: Performance Testing\nMarshall Stability & Flow', box_props),
         (5, 2.4,  'Step 9: Volumetric Analysis\nGmb, Va%, VMA%, VFB%', box_props),
         (5, 0.8,  'Results, Analysis\n& Conclusions', result_props),
     ]

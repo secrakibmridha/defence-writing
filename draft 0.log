@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  26 AUG 2026 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  28 AUG 2026 20:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -467,7 +467,7 @@ Package hyperref Info: Link coloring OFF on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<graphics/sec logo.png, id=143, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=147, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 123.
@@ -503,17 +503,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [6
 
-] (draft 0.lof)
+] [7] (draft 0.lof)
 \tf@lof=\write5
 \openout5 = `"draft 0.lof"'.
 
- [7
+ [8
 
 ] (draft 0.lot)
 \tf@lot=\write6
 \openout6 = `"draft 0.lot"'.
 
- [8
+ [9
 
 ]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
@@ -525,7 +525,7 @@ l.378
 
 
 ] [2] [3]
-<graphics/methodology_flowchart.pdf, id=278, 570.93298pt x 787.74298pt>
+<graphics/methodology_flowchart.pdf, id=288, 570.93298pt x 787.74298pt>
 File: graphics/methodology_flowchart.pdf Graphic file (type pdf)
 <use graphics/methodology_flowchart.pdf>
 Package pdftex.def Info: graphics/methodology_flowchart.pdf  used on input line 419.
@@ -538,13 +538,13 @@ Overfull \hbox (11.98177pt too wide) in paragraph at lines 474--488
 [4
 
 ] [5 <./graphics/methodology_flowchart.pdf>]
-<graphics/gradation_curve.pdf, id=368, 498.41772pt x 317.75684pt>
+<graphics/gradation_curve.pdf, id=377, 498.41772pt x 317.75684pt>
 File: graphics/gradation_curve.pdf Graphic file (type pdf)
 <use graphics/gradation_curve.pdf>
 Package pdftex.def Info: graphics/gradation_curve.pdf  used on input line 529.
 (pdftex.def)             Requested size: 407.66833pt x 259.90286pt.
  [6]
-<graphics/zingg_diagram.pdf, id=375, 393.27426pt x 387.43997pt>
+<graphics/zingg_diagram.pdf, id=384, 393.27426pt x 387.43997pt>
 File: graphics/zingg_diagram.pdf Graphic file (type pdf)
 <use graphics/zingg_diagram.pdf>
 Package pdftex.def Info: graphics/zingg_diagram.pdf  used on input line 554.
@@ -554,14 +554,19 @@ Overfull \hbox (24.6845pt too wide) in paragraph at lines 569--579
  [][] 
  []
 
-[7 <./graphics/gradation_curve.pdf>] [8 <./graphics/zingg_diagram.pdf>] [9]
-Overfull \hbox (88.05377pt too wide) in paragraph at lines 633--644
+[7 <./graphics/gradation_curve.pdf>] [8 <./graphics/zingg_diagram.pdf>]
+Overfull \hbox (31.2627pt too wide) in paragraph at lines 618--627
  [][] 
  []
 
-[10] [11
+[9] [10]
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 649--650
+[]\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 Con-duct-ing ITS tests (ASTM D6931)
+ []
 
-] (draft 0.bbl) [12
+[11
+
+] [12] (draft 0.bbl) [13
 
 
 ] (draft 0.aux)
@@ -570,20 +575,20 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
 Package rerunfilecheck Info: File `"draft 0".out' has not changed.
-(rerunfilecheck)             Checksum: 4AC3DF335C734AF6039DB49F995023B6;5520.
+(rerunfilecheck)             Checksum: 6FFFCE3478262937AA877C98E84FDFE1;5402.
  ) 
 Here is how much of TeX's memory you used:
- 13668 strings out of 467501
- 218642 string characters out of 5408550
- 657525 words of memory out of 5000000
+ 13670 strings out of 467501
+ 218643 string characters out of 5408550
+ 657455 words of memory out of 5000000
  42637 multiletter control sequences out of 15000+600000
  635176 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,10n,79p,2013b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,10n,79p,1816b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (21 pages, 1104171 bytes).
+Output written on "draft 0.pdf" (23 pages, 1106273 bytes).
 PDF statistics:
- 614 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 626 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 309 words of extra memory for PDF output out of 10000 (max. 10000000)
 
