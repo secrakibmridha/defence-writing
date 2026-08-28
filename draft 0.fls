@@ -244,10 +244,22 @@ INPUT .\graphics\bitumen_properties.pdf
 INPUT .\graphics\bitumen_properties.pdf
 INPUT .\graphics\bitumen_properties.pdf
 INPUT .\graphics\bitumen_properties.pdf
+INPUT .\graphics\obc_determination.pdf
+INPUT .\graphics\obc_determination.pdf
+INPUT .\graphics\obc_determination.pdf
+INPUT .\graphics\obc_determination.pdf
+INPUT .\graphics\obc_determination.pdf
+INPUT .\graphics\obc_determination.pdf
+INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT .\graphics\mix_comparison.pdf
+INPUT .\graphics\mix_comparison.pdf
+INPUT .\graphics\mix_comparison.pdf
+INPUT .\graphics\mix_comparison.pdf
+INPUT .\graphics\mix_comparison.pdf
+INPUT .\graphics\mix_comparison.pdf
 INPUT .\draft 0.bbl
 INPUT .\draft 0.bbl
 INPUT draft 0.bbl
-INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT draft 0.aux
 INPUT .\draft 0.out
 INPUT .\draft 0.out
@@ -265,6 +277,8 @@ INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
