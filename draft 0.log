@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  28 AUG 2026 23:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  28 AUG 2026 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -467,7 +467,7 @@ Package hyperref Info: Link coloring OFF on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<graphics/sec logo.png, id=163, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=167, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 123.
@@ -525,7 +525,7 @@ l.378
 
 
 ] [2] [3]
-<graphics/methodology_flowchart.pdf, id=321, 570.93298pt x 787.74298pt>
+<graphics/methodology_flowchart.pdf, id=326, 570.93298pt x 787.74298pt>
 File: graphics/methodology_flowchart.pdf Graphic file (type pdf)
 <use graphics/methodology_flowchart.pdf>
 Package pdftex.def Info: graphics/methodology_flowchart.pdf  used on input line 420.
@@ -533,13 +533,13 @@ Package pdftex.def Info: graphics/methodology_flowchart.pdf  used on input line 
  [4
 
 ] [5 <./graphics/methodology_flowchart.pdf>]
-<graphics/gradation_curve.pdf, id=410, 498.41772pt x 317.75684pt>
+<graphics/gradation_curve.pdf, id=415, 498.41772pt x 317.75684pt>
 File: graphics/gradation_curve.pdf Graphic file (type pdf)
 <use graphics/gradation_curve.pdf>
 Package pdftex.def Info: graphics/gradation_curve.pdf  used on input line 530.
 (pdftex.def)             Requested size: 407.66833pt x 259.90286pt.
  [6]
-<graphics/zingg_diagram.pdf, id=417, 393.27426pt x 387.43997pt>
+<graphics/zingg_diagram.pdf, id=422, 393.27426pt x 387.43997pt>
 File: graphics/zingg_diagram.pdf Graphic file (type pdf)
 <use graphics/zingg_diagram.pdf>
 Package pdftex.def Info: graphics/zingg_diagram.pdf  used on input line 555.
@@ -555,7 +555,7 @@ Overfull \hbox (31.2627pt too wide) in paragraph at lines 619--628
  []
 
 [9] [10]
-<graphics/aggregate_properties.pdf, id=585, 426.26118pt x 281.79065pt>
+<graphics/aggregate_properties.pdf, id=590, 426.26118pt x 281.79065pt>
 File: graphics/aggregate_properties.pdf Graphic file (type pdf)
 <use graphics/aggregate_properties.pdf>
 Package pdftex.def Info: graphics/aggregate_properties.pdf  used on input line 641.
@@ -563,30 +563,30 @@ Package pdftex.def Info: graphics/aggregate_properties.pdf  used on input line 6
  [11
 
  <./graphics/aggregate_properties.pdf>]
-<graphics/bitumen_properties.pdf, id=641, 715.29231pt x 426.33066pt>
+<graphics/bitumen_properties.pdf, id=646, 715.29231pt x 426.33066pt>
 File: graphics/bitumen_properties.pdf Graphic file (type pdf)
 <use graphics/bitumen_properties.pdf>
 Package pdftex.def Info: graphics/bitumen_properties.pdf  used on input line 656.
 (pdftex.def)             Requested size: 385.02547pt x 229.48653pt.
-<graphics/obc_determination.pdf, id=643, 859.70746pt x 570.79527pt>
+<graphics/obc_determination.pdf, id=648, 859.70746pt x 570.79527pt>
 File: graphics/obc_determination.pdf Graphic file (type pdf)
 <use graphics/obc_determination.pdf>
 Package pdftex.def Info: graphics/obc_determination.pdf  used on input line 669.
 (pdftex.def)             Requested size: 452.9679pt x 300.74329pt.
  [12 <./graphics/bitumen_properties.pdf>] [13 <./graphics/obc_determination.pdf>]
-<graphics/mix_comparison.pdf, id=770, 714.47598pt x 339.99835pt>
+<graphics/mix_comparison.pdf, id=775, 714.47598pt x 339.99835pt>
 File: graphics/mix_comparison.pdf Graphic file (type pdf)
 <use graphics/mix_comparison.pdf>
 Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 692.
 (pdftex.def)             Requested size: 452.9679pt x 215.55414pt.
- [14 <./graphics/mix_comparison.pdf>]
-Overfull \hbox (0.10068pt too wide) in paragraph at lines 714--715
+ [14 <./graphics/mix_comparison.pdf>] [15]
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 728--729
 []\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 Con-duct-ing ITS tests (ASTM D6931)
  []
 
-[15
+[16
 
-] [16] (draft 0.bbl) [17
+] [17] (draft 0.bbl) [18
 
 
 ] (draft 0.aux)
@@ -595,20 +595,20 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
 Package rerunfilecheck Info: File `"draft 0".out' has not changed.
-(rerunfilecheck)             Checksum: E67B9C9F6BB562B1EA0EF3B663073B26;6363.
+(rerunfilecheck)             Checksum: B1E368E640744CAD3088FF1FEA3BD0C1;6777.
  ) 
 Here is how much of TeX's memory you used:
- 13719 strings out of 467501
- 220087 string characters out of 5408550
+ 13724 strings out of 467501
+ 220137 string characters out of 5408550
  656990 words of memory out of 5000000
- 42673 multiletter control sequences out of 15000+600000
+ 42674 multiletter control sequences out of 15000+600000
  635176 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,10n,79p,1816b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,10n,79p,1816b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (27 pages, 1232745 bytes).
+Output written on "draft 0.pdf" (28 pages, 1237005 bytes).
 PDF statistics:
- 914 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 926 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
