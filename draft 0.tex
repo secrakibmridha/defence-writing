@@ -408,6 +408,17 @@ The remainder of this thesis is organised as follows. Section~2 presents a revie
 
 \section{Literature Review}
 
+\subsection{Bitumen Grading and Pavement Performance in Tropical Climates}
+The performance of flexible pavements is fundamentally governed by the structural capacity and resilience of the underlying materials, particularly in tropical and subtropical regions facing high traffic volumes and severe climatic variations. Imran et al.~\cite{imran2025developing} developed a comprehensive pavement quality index, emphasizing that rapid traffic growth and temperature fluctuations are the primary catalysts for premature pavement deterioration. Their study highlighted that inadequate quality control during construction often leads to severe distresses such as rutting and thermal cracking, necessitating robust evaluation frameworks. Similarly, Werkineh and Demissie~\cite{werkineh2020assessment} investigated pavement performance failures along the Assosa-Mendi road network, demonstrating that weak sub-surface materials, particularly in the base course and subgrade, directly correlate with the onset of alligator cracking and pothole formation. These findings underscore the necessity of employing high-quality, temperature-resistant bituminous binders and sound granular bases to ensure the longevity of highway infrastructure in challenging environments.
+
+\subsection{Aggregate Shape and Its Influence on Mix Design}
+The morphological characteristics of coarse aggregates---specifically their shape, angularity, and texture---exert a profound influence on the mechanical stability and volumetric properties of hot mix asphalt (HMA). Khairandish and Chopra~\cite{khairandish2020influence} conducted a comprehensive review indicating that flat and elongated particles tend to fracture under heavy traffic loads, thereby reducing the shear resistance and increasing the rutting susceptibility of bituminous mixes. This was empirically supported by Teja and Krishna~\cite{teja2020effect}, who investigated dense bituminous macadam (DBM) mixes containing various proportions of differently shaped aggregates. Their study revealed that replacing conventional aggregates with 20\% cubical particles significantly enhanced Marshall stability due to superior aggregate interlock and internal friction, whereas the inclusion of blade-shaped aggregates drastically reduced mix workability and strength. Furthermore, Rajkumar et al.~\cite{rajkumar2018experimental} emphasized that a higher percentage of flaky and elongated aggregates invariably leads to an undesirable increase in air voids, compromising the fatigue life of the pavement. Corroborating these findings, Sumanth et al.~\cite{sumanth2017study} demonstrated that DBM mixes formulated with cubical aggregates exhibited maximum rutting resistance, conclusively establishing cubical aggregate proportioning as a critical parameter in optimizing flexible pavement design.
+
+\subsection{Subgrade Stabilization and Economic Road Construction}
+In addition to optimizing the surface course, strengthening the pavement foundation is a critical strategy for achieving cost-effective road construction. Sood and Bansal~\cite{sood2015evaluation} evaluated the techno-economic benefits of utilizing industrial by-products, such as lime and fly ash, for subgrade soil stabilization. Their research demonstrated that treating weak subgrade soils with these additives substantially increases the California Bearing Ratio (CBR) up to an optimal limit. A stronger, stabilized subgrade fundamentally reduces the required thickness of the overlying flexible pavement layers. Consequently, this approach not only mitigates the environmental impact of industrial waste disposal but also provides a highly economical solution by reducing the total volume of expensive construction materials required for highway projects.
+
+\subsection{Research Gap}
+Despite extensive research on aggregate morphology and soil stabilization techniques, a critical gap remains in understanding their combined synergistic effects, particularly when utilizing varying qualities of bituminous binders. While prior investigations have demonstrated the independent benefits of cubical aggregates~\cite{teja2020effect, sumanth2017study} and subgrade stabilization~\cite{sood2015evaluation}, no study has systematically compared the performance of high-quality locally produced bitumen against imported low-cost variants in conjunction with optimized aggregate shapes. Specifically, the interaction between 20\% cubical aggregate replacement and penetration-grade 60/70 bitumen sourced locally in Bangladesh remains unexplored. The present study addresses this void by providing a comprehensive comparative analysis of these mix variants, ultimately proposing a techno-economic roadmap for the region.
 
 \section{Methodology}
 
@@ -662,7 +673,34 @@ The safety and volatility characteristics also showed marked differences; the lo
 
 The Marshall mix design method was employed to determine the Optimum Binder Content (OBC) for both the locally produced and imported bitumen. Specimens were prepared at varying asphalt contents ranging from 4.0\% to 6.0\% in 0.5\% increments. The volumetric properties (air voids, VMA, VFA) and mechanical properties (Marshall stability, flow, and unit weight) were evaluated to establish the optimal mix proportions. 
 
-As illustrated in Figure~\ref{fig:obc_determination}, the stability for both binders reached a peak before declining at higher binder contents, while the flow value increased monotonically. The target air void content ($V_a$) of 4.0\%, a standard criterion for heavy traffic pavements, corresponded to an asphalt content of approximately 5.0\% for both the local and imported bitumen mixes. At this 5.0\% OBC, all other volumetric and mechanical parameters, including VMA, VFA, and unit weight, satisfactorily met the Roads and Highways Department (RHD) specification limits. Therefore, 5.0\% was selected as the OBC for the subsequent comparative performance evaluations.
+As illustrated in Figure~\ref{fig:obc_determination} and detailed in Table~\ref{tab:obc_data}, the stability for both binders reached a peak before declining at higher binder contents, while the flow value increased monotonically. The target air void content ($V_a$) of 4.0\%, a standard criterion for heavy traffic pavements, corresponded to an asphalt content of approximately 5.0\% for both the local and imported bitumen mixes. At this 5.0\% OBC, all other volumetric and mechanical parameters, including VMA, VFA, and unit weight, satisfactorily met the Roads and Highways Department (RHD) specification limits. Therefore, 5.0\% was selected as the OBC for the subsequent comparative performance evaluations.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Marshall mix design properties for Optimum Binder Content determination.}
+    \label{tab:obc_data}
+    \resizebox{\textwidth}{!}{
+    \begin{tabular}{lccccccc}
+        \toprule
+        \textbf{Bitumen Type} & \textbf{AC (\%)} & \textbf{Stability (lbs)} & \textbf{Flow (0.25\,mm)} & \textbf{Unit Wt. (lb/cft)} & \textbf{$V_a$ (\%)} & \textbf{VMA (\%)} & \textbf{VFA (\%)} \\
+        \midrule
+        \multirow{5}{*}{\textbf{Local (ERL)}} 
+        & 4.0 & 1813.67 & 9.5 & 145.72 & 7.54 & 16.66 & 54.75 \\
+        & 4.5 & 2446.50 & 9.0 & 144.46 & 7.44 & 17.44 & 57.81 \\
+        & 5.0 & 2500.00 & 10.0 & 147.28 & 4.92 & 16.47 & 70.15 \\
+        & 5.5 & 2438.60 & 11.0 & 150.38 & 2.19 & 15.15 & 85.54 \\
+        & 6.0 & 2118.40 & 14.0 & 150.89 & 1.10 & 15.32 & 92.79 \\
+        \midrule
+        \multirow{5}{*}{\textbf{Imported}} 
+        & 4.0 & 1373.81 & 10.0 & 145.58 & 7.42 & 16.55 & 55.17 \\
+        & 4.5 & 1069.42 & 11.0 & 144.96 & 7.12 & 17.35 & 58.97 \\
+        & 5.0 & 1913.50 & 12.0 & 148.51 & 4.11 & 15.76 & 73.92 \\
+        & 5.5 & 2028.64 & 12.0 & 149.70 & 2.64 & 15.53 & 83.01 \\
+        & 6.0 & 2182.67 & 15.0 & 151.76 & 0.53 & 14.83 & 96.11 \\
+        \bottomrule
+    \end{tabular}
+    }
+\end{table}
 
 \begin{figure}[htbp]
     \centering
@@ -673,7 +711,25 @@ As illustrated in Figure~\ref{fig:obc_determination}, the stability for both bin
 
 \subsection{Comparative Analysis of Bituminous Mixtures}
 
-Following the determination of the 5.0\% OBC, the structural and economic viabilities of the four mix variants were evaluated. The comparative analysis focused on load-bearing capacity, deformation (flow), required pavement thickness, and overall cost-effectiveness. The interaction effects between the binder type (Local vs. Imported) and aggregate shape (Normal vs. 20\% Cubical) are graphically illustrated in Figure~\ref{fig:mix_comparison}.
+Following the determination of the 5.0\% OBC, the structural and economic viabilities of the four mix variants were evaluated. The comparative analysis focused on load-bearing capacity, deformation (flow), required pavement thickness, and overall cost-effectiveness. The raw Marshall properties of the four variants are summarized in Table~\ref{tab:mix_data}, while the interaction effects between the binder type (Local vs. Imported) and aggregate shape (Normal vs. 20\% Cubical) are graphically illustrated in Figure~\ref{fig:mix_comparison}.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Comparative Marshall properties of the four bituminous mix variants evaluated at 5.0\% OBC.}
+    \label{tab:mix_data}
+    \resizebox{\textwidth}{!}{
+    \begin{tabular}{lcccccc}
+        \toprule
+        \textbf{Mix Variant} & \textbf{Stability (lbs)} & \textbf{Flow (0.25\,mm)} & \textbf{Unit Wt. (lb/cft)} & \textbf{$V_a$ (\%)} & \textbf{VMA (\%)} & \textbf{VFA (\%)} \\
+        \midrule
+        Local + Normal & 1958.81 & 10.0 & 149.64 & 3.27 & 15.00 & 78.20 \\
+        Imported + Normal & 1119.40 & 17.0 & 146.52 & 4.90 & 16.77 & 70.78 \\
+        Local + 20\% Cubical & 2990.55 & 8.5 & 146.64 & 5.20 & 16.70 & 68.86 \\
+        Imported + 20\% Cubical & 2070.13 & 12.0 & 150.07 & 2.59 & 14.93 & 82.65 \\
+        \bottomrule
+    \end{tabular}
+    }
+\end{table}
 
 \textbf{A. Load Bearing Capacity (Marshall Stability):}
 As depicted in the left subplot of Figure~\ref{fig:mix_comparison}, the incorporation of 20\% cubical aggregates drastically enhanced the load-bearing capacity for both binder types. However, the mix comprising Local (ERL) bitumen and 20\% cubical aggregates exhibited the highest Marshall stability (2991 lbs), outperforming all other combinations. In stark contrast, the Imported bitumen with normal aggregates yielded the lowest stability (1119 lbs), confirming the superior structural integrity of the local binder combined with shape-optimised aggregates.
