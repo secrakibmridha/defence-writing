@@ -240,12 +240,61 @@ def plot_methodology_flowchart():
     print(f"  [OK] Saved: {filepath}")
 
 
+def generate_aggregate_properties_bar():
+    """Bar chart comparing aggregate properties with specification limits."""
+    fig, ax = plt.subplots(figsize=(6, 4))
+    
+    properties = ['AIV', 'ACV', 'Flakiness', 'Elongation']
+    results = [18, 20, 15, 23]
+    limits = [27, 30, 30, 30]
+    
+    x = np.arange(len(properties))
+    width = 0.35
+    
+    rects1 = ax.bar(x - width/2, results, width, label='Test Result', color=COLORS['blue'], edgecolor='black', linewidth=1)
+    rects2 = ax.bar(x + width/2, limits, width, label='Max Limit', color=COLORS['orange'], edgecolor='black', linewidth=1, hatch='//')
+    
+    ax.set_ylabel('Percentage (%)')
+    ax.set_title('Physical and Mechanical Properties of Coarse Aggregates')
+    ax.set_xticks(x)
+    ax.set_xticklabels(properties)
+    ax.legend(frameon=True, edgecolor='black', fancybox=False)
+    ax.set_ylim(0, 40)
+    ax.grid(axis='y', linestyle='--', alpha=0.7)
+    
+    # Add labels on top of bars
+    for rect in rects1:
+        height = rect.get_height()
+        ax.annotate(f'{height}',
+                    xy=(rect.get_x() + rect.get_width() / 2, height),
+                    xytext=(0, 3),  # 3 points vertical offset
+                    textcoords="offset points",
+                    ha='center', va='bottom', fontsize=8)
+    
+    for rect in rects2:
+        height = rect.get_height()
+        ax.annotate(f'{height}',
+                    xy=(rect.get_x() + rect.get_width() / 2, height),
+                    xytext=(0, 3),
+                    textcoords="offset points",
+                    ha='center', va='bottom', fontsize=8)
+    
+    plt.tight_layout()
+    filepath = os.path.join(GRAPHICS_DIR, 'aggregate_properties.pdf')
+    fig.savefig(filepath, format='pdf')
+    plt.close(fig)
+    print(f"  [OK] Saved: {filepath}")
+
+
 # ═══════════════════════════════════════════════════════════════════════
 # MAIN
 # ═══════════════════════════════════════════════════════════════════════
 if __name__ == '__main__':
     print("Generating Elsevier-quality thesis figures...")
     print()
+    
+    print("[0/3] Aggregate Properties Bar Chart")
+    generate_aggregate_properties_bar()
     
     print("[1/3] Aggregate Gradation Curve")
     plot_gradation_curve()
