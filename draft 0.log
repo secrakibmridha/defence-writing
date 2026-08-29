@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,20 +668,20 @@ Package pdftex.def Info: graphics/obc_determination.pdf  used on input line 713
 (pdftex.def)             Requested size: 452.9679pt x 300.77104pt.
  [14 <./graphics/bitumen_properties.pdf>] [15 <./graphics/obc_determination.pdf
 >]
-<graphics/performance_assessment.pdf, id=857, 1004.24747pt x 662.01393pt>
+<graphics/performance_assessment.pdf, id=859, 1004.24747pt x 662.01393pt>
 File: graphics/performance_assessment.pdf Graphic file (type pdf)
 <use graphics/performance_assessment.pdf>
 Package pdftex.def Info: graphics/performance_assessment.pdf  used on input lin
-e 751.
+e 756.
 (pdftex.def)             Requested size: 452.9679pt x 298.60051pt.
  [16] [17 <./graphics/performance_assessment.pdf>]
-<graphics/mix_comparison.pdf, id=960, 714.47598pt x 339.99835pt>
+<graphics/mix_comparison.pdf, id=962, 714.47598pt x 339.99835pt>
 File: graphics/mix_comparison.pdf Graphic file (type pdf)
 <use graphics/mix_comparison.pdf>
-Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 770.
+Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 775.
 (pdftex.def)             Requested size: 452.9679pt x 215.55414pt.
  [18 <./graphics/mix_comparison.pdf>] [19]
-Overfull \hbox (0.10068pt too wide) in paragraph at lines 806--807
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 811--812
 []\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 C
 on-duct-ing ITS tests (ASTM D6931)
  []
@@ -722,9 +722,9 @@ Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (32 pages, 1340025 bytes).
+Output written on "draft 0.pdf" (32 pages, 1341290 bytes).
 PDF statistics:
- 1121 PDF objects out of 1200 (max. 8388607)
+ 1123 PDF objects out of 1200 (max. 8388607)
  114 named destinations out of 1000 (max. 500000)
  406 words of extra memory for PDF output out of 10000 (max. 10000000)
 
