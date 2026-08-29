@@ -1,6 +1,8 @@
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import numpy as np
+from scipy.interpolate import make_interp_spline
 import os
 
 # ── Style Configuration ─────────────────────────────────────────────
@@ -27,26 +29,27 @@ GRAPHICS_DIR = os.path.join(BASE_DIR, 'graphics')
 os.makedirs(GRAPHICS_DIR, exist_ok=True)
 
 def generate_obc_figures():
-    """Generates a 2x3 grid of Marshall mix properties for OBC determination."""
+    """Generates a 2x3 grid of Marshall mix properties with smooth curves for OBC determination."""
     
     # Data
-    ac_content = [4.0, 4.5, 5.0, 5.5, 6.0]
+    ac_content = np.array([4.0, 4.5, 5.0, 5.5, 6.0])
+    ac_smooth = np.linspace(4.0, 6.0, 300)
     
     # Local Bitumen
-    local_stability = [1813.67, 2446.5, 2500, 2438.6, 2118.4]
-    local_flow = [9.5, 9, 10, 11, 14]
-    local_unit_weight = [145.719, 144.456, 147.278, 150.384, 150.892]
-    local_va = [7.539, 7.437, 4.915, 2.191, 1.104]
-    local_vma = [16.661, 17.437, 16.467, 15.147, 15.315]
-    local_vfa = [54.75, 57.813, 70.152, 85.535, 92.791]
+    local_stability = np.array([1813.67, 2446.5, 2500, 2438.6, 2118.4])
+    local_flow = np.array([9.5, 9, 10, 11, 14])
+    local_unit_weight = np.array([145.719, 144.456, 147.278, 150.384, 150.892])
+    local_va = np.array([7.539, 7.437, 4.915, 2.191, 1.104])
+    local_vma = np.array([16.661, 17.437, 16.467, 15.147, 15.315])
+    local_vfa = np.array([54.75, 57.813, 70.152, 85.535, 92.791])
     
     # Imported Bitumen
-    imp_stability = [1373.81, 1069.42, 1913.5, 2028.64, 2182.67]
-    imp_flow = [10, 11, 12, 12, 15]
-    imp_unit_weight = [145.579, 144.955, 148.512, 149.698, 151.757]
-    imp_va = [7.421, 7.117, 4.110, 2.638, 0.532]
-    imp_vma = [16.554, 17.345, 15.760, 15.534, 14.826]
-    imp_vfa = [55.171, 58.968, 73.921, 83.011, 96.112]
+    imp_stability = np.array([1373.81, 1069.42, 1913.5, 2028.64, 2182.67])
+    imp_flow = np.array([10, 11, 12, 12, 15])
+    imp_unit_weight = np.array([145.579, 144.955, 148.512, 149.698, 151.757])
+    imp_va = np.array([7.421, 7.117, 4.110, 2.638, 0.532])
+    imp_vma = np.array([16.554, 17.345, 15.760, 15.534, 14.826])
+    imp_vfa = np.array([55.171, 58.968, 73.921, 83.011, 96.112])
     
     plots = [
         ('Stability', local_stability, imp_stability, 'Corrected Stability (lbs)'),
@@ -62,10 +65,20 @@ def generate_obc_figures():
     
     for idx, (title, loc_data, imp_data, ylabel) in enumerate(plots):
         ax = axes[idx]
-        ax.plot(ac_content, loc_data, marker='o', linestyle='-', color=COLORS['local'], label='Local (ERL)', linewidth=2)
-        ax.plot(ac_content, imp_data, marker='s', linestyle='--', color=COLORS['imported'], label='Imported', linewidth=2)
         
-        ax.set_title(title, pad=10)
+        # Smooth interpolation curves using natural cubic splines (bc_type='natural')
+        spline_loc = make_interp_spline(ac_content, loc_data, k=3, bc_type='natural')
+        spline_imp = make_interp_spline(ac_content, imp_data, k=3, bc_type='natural')
+        
+        # Plot smooth curves
+        ax.plot(ac_smooth, spline_loc(ac_smooth), linestyle='-', color=COLORS['local'], label='Local (ERL)', linewidth=2.2)
+        ax.plot(ac_smooth, spline_imp(ac_smooth), linestyle='--', color=COLORS['imported'], label='Imported', linewidth=2.2)
+        
+        # Plot actual experimental data points as markers
+        ax.plot(ac_content, loc_data, marker='o', linestyle='', color=COLORS['local'], markersize=6.5, zorder=5)
+        ax.plot(ac_content, imp_data, marker='s', linestyle='', color=COLORS['imported'], markersize=6.5, zorder=5)
+        
+        ax.set_title(title, pad=10, fontweight='bold')
         ax.set_xlabel('Asphalt Content (%)')
         ax.set_ylabel(ylabel)
         ax.grid(True, linestyle=':', alpha=0.7)
@@ -73,17 +86,20 @@ def generate_obc_figures():
         
         # Add 4% Air voids horizontal line for the Va plot
         if title == 'Air Voids (Va)':
-            ax.axhline(y=4.0, color='red', linestyle='-.', alpha=0.5, label='4% Target')
+            ax.axhline(y=4.0, color='red', linestyle='-.', alpha=0.6, label='4% Target')
             
         if idx == 0:
             ax.legend(frameon=True, fancybox=False, edgecolor='black')
             
     plt.tight_layout()
-    filepath = os.path.join(GRAPHICS_DIR, 'obc_determination.pdf')
-    fig.savefig(filepath, format='pdf', bbox_inches='tight')
+    pdf_filepath = os.path.join(GRAPHICS_DIR, 'obc_determination.pdf')
+    png_filepath = os.path.join(GRAPHICS_DIR, 'obc_determination.png')
+    fig.savefig(pdf_filepath, format='pdf', bbox_inches='tight')
+    fig.savefig(png_filepath, format='png', bbox_inches='tight')
     plt.close(fig)
-    print(f"[OK] Saved: {filepath}")
+    print(f"[OK] Saved: {pdf_filepath} and {png_filepath}")
 
 if __name__ == '__main__':
     print("Generating OBC Determination Figures...")
     generate_obc_figures()
+
