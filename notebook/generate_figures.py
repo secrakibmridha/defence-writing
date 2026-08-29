@@ -189,47 +189,53 @@ def plot_zingg_diagram():
 # FIGURE 3: Methodology Flowchart
 # ═══════════════════════════════════════════════════════════════════════
 def plot_methodology_flowchart():
-    """Experimental methodology flowchart."""
+    """Experimental methodology flowchart in APA style."""
     
-    fig, ax = plt.subplots(figsize=(8, 11))
+    fig, ax = plt.subplots(figsize=(8, 12.5))
     ax.set_xlim(0, 10)
-    ax.set_ylim(0, 16)
+    ax.set_ylim(0, 17)
     ax.axis('off')
     
-    # Box styling
-    box_props = dict(boxstyle='round,pad=0.4', facecolor='#F0F4F8', 
-                     edgecolor=COLORS['blue'], linewidth=1.2)
-    decision_props = dict(boxstyle='round,pad=0.4', facecolor='#FFF8E1',
-                          edgecolor=COLORS['orange'], linewidth=1.2)
-    result_props = dict(boxstyle='round,pad=0.4', facecolor='#E8F5E9',
-                        edgecolor=COLORS['green'], linewidth=1.2)
+    # APA style box styling (sans-serif text, minimal color)
+    box_props = dict(boxstyle='square,pad=0.6', facecolor='white', 
+                     edgecolor='black', linewidth=1.2)
+    decision_props = dict(boxstyle='square,pad=0.6', facecolor='#F9F9F9',
+                          edgecolor='black', linewidth=1.2)
+    result_props = dict(boxstyle='square,pad=0.6', facecolor='#F0F0F0',
+                        edgecolor='black', linewidth=1.5)
     
-    # Flowchart elements (x_center, y_center, text, style)
-    steps = [
-        (5, 15.2, 'Step 1: Material Collection\n& Initial Preparation', box_props),
-        (5, 13.6, 'Step 2: Material Characterisation\nBitumen Tests | Aggregate Tests', box_props),
-        (5, 12.0, 'Step 3: Sieve Analysis\n& Aggregate Gradation (MoRTH Grading-II)', box_props),
-        (5, 10.4, 'Step 4: Aggregate Shape Classification\n(Zingg Diagram: Cubical, Rod, Disk, Blade)', box_props),
-        (5, 8.8,  'Step 5: Mix Batching (1200 gm/specimen)\nMix-1 to Mix-4 Preparation', box_props),
-        (5, 7.2,  'Step 6: OBC Determination from Mix-1\n(4.0%, 4.5%, 5.0%, 5.5%, 6.0%) → OBC = 5.0%', decision_props),
-        (5, 5.6,  'Step 7: Mixing (150°C) & Compaction\n(Marshall Hammer, 75 blows/face)', box_props),
-        (5, 4.0,  'Step 8: Performance Testing\nMarshall Stability & Flow', box_props),
-        (5, 2.4,  'Step 9: Volumetric Analysis\nGmb, Va%, VMA%, VFB%', box_props),
-        (5, 0.8,  'Results, Analysis\n& Conclusions', result_props),
+    # Flowchart text elements
+    steps_data = [
+        ('Material Collection & Initial Preparation', box_props),
+        ('Material Characterisation\nBitumen (Local & Imported) | Aggregate (Sylhet Quarry)', box_props),
+        ('Sieve Analysis & Aggregate Gradation\n(MoRTH Grading-II)', box_props),
+        ('Aggregate Shape Classification\n(Zingg Diagram: Cubical, Rod, Disk, Blade)', box_props),
+        ('Mix Batching (1200 g/specimen)\nFour Variants: Local/Imported × Normal/Cubical', box_props),
+        ('Optimum Binder Content Determination\n(Marshall Method, Trial Contents 4.0% - 6.0%) → OBC = 5.0%', decision_props),
+        ('Mixing (150°C) & Compaction\n(Marshall Hammer, 75 blows/face)', box_props),
+        ('Performance Testing\nMarshall Stability & Flow', box_props),
+        ('Volumetric Analysis\nBulk Specific Gravity, Va%, VMA, VFA', box_props),
+        ('Comparative Analysis\nLocal vs. Imported Bitumen | Normal vs. Cubical Aggregates', result_props),
+        ('Techno-Economic Roadmap Formulation\nSubgrade Stabilization & Surface Layer Optimization', result_props),
     ]
     
+    # Calculate y-positions for 11 steps evenly
+    y_positions = np.linspace(16.0, 1.0, len(steps_data))
+    
+    # Build steps list with (x, y, text, props)
+    steps = [(5, y, text, props) for y, (text, props) in zip(y_positions, steps_data)]
+    
     for x, y, text, props in steps:
-        ax.text(x, y, text, ha='center', va='center', fontsize=9,
-                bbox=props, fontfamily='serif')
+        ax.text(x, y, text, ha='center', va='center', fontsize=10,
+                bbox=props, fontfamily='sans-serif')
     
     # Draw arrows between steps
-    arrow_props = dict(arrowstyle='->', color=COLORS['black'], linewidth=1.2,
+    arrow_props = dict(arrowstyle='->', color='black', linewidth=1.2,
                        connectionstyle='arc3,rad=0')
     
-    y_positions = [s[1] for s in steps]
     for i in range(len(y_positions) - 1):
-        y_start = y_positions[i] - 0.5
-        y_end = y_positions[i+1] + 0.5
+        y_start = y_positions[i] - 0.45
+        y_end = y_positions[i+1] + 0.45
         ax.annotate('', xy=(5, y_end), xytext=(5, y_start),
                      arrowprops=arrow_props)
     
