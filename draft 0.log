@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 12:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,15 +680,15 @@ File: graphics/mix_comparison.pdf Graphic file (type pdf)
 <use graphics/mix_comparison.pdf>
 Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 775.
 (pdftex.def)             Requested size: 452.9679pt x 215.55414pt.
- [18 <./graphics/mix_comparison.pdf>] [19]
-Overfull \hbox (0.10068pt too wide) in paragraph at lines 811--812
+ [18 <./graphics/mix_comparison.pdf>] [19] [20
+
+]
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 818--819
 []\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 C
 on-duct-ing ITS tests (ASTM D6931)
  []
 
-[20
-
-] [21] (draft 0.bbl) [22
+[21] (draft 0.bbl) [22
 
 
 ] (draft 0.aux)
@@ -700,8 +700,8 @@ Package rerunfilecheck Info: File `"draft 0".out' has not changed.
 (rerunfilecheck)             Checksum: 3387B55FE085957693400C3BBC65B7BA;7934.
  ) 
 Here is how much of TeX's memory you used:
- 13767 strings out of 467501
- 221027 string characters out of 5408550
+ 13769 strings out of 467501
+ 221041 string characters out of 5408550
  698325 words of memory out of 5000000
  42705 multiletter control sequences out of 15000+600000
  636770 words of font info for 73 fonts, out of 8000000 for 9000
@@ -722,9 +722,9 @@ Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (32 pages, 1341443 bytes).
+Output written on "draft 0.pdf" (32 pages, 1342638 bytes).
 PDF statistics:
- 1123 PDF objects out of 1200 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
+ 1126 PDF objects out of 1200 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
  406 words of extra memory for PDF output out of 10000 (max. 10000000)
 
