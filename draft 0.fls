@@ -1,6 +1,6 @@
-PWD d:\defence writing
+PWD D:\defence writing
 INPUT C:\Users\Rakib\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\defence writing\draft 0.tex
+INPUT draft 0.tex
 OUTPUT draft 0.log
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
