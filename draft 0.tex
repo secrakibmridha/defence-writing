@@ -673,7 +673,21 @@ The safety and volatility characteristics also showed marked differences; the lo
 
 The Marshall mix design method was employed to determine the Optimum Binder Content (OBC) for both the locally produced and imported bitumen. Specimens were prepared at varying asphalt contents ranging from 4.0\% to 6.0\% in 0.5\% increments. The volumetric properties (air voids, VMA, VFA) and mechanical properties (Marshall stability, flow, and unit weight) were evaluated to establish the optimal mix proportions. 
 
-As illustrated in Figure~\ref{fig:obc_determination} and detailed in Table~\ref{tab:obc_data}, the stability for both binders reached a peak before declining at higher binder contents, while the flow value increased monotonically. The target air void content ($V_a$) of 4.0\%, a standard criterion for heavy traffic pavements, corresponded to an asphalt content of approximately 5.0\% for both the local and imported bitumen mixes. At this 5.0\% OBC, all other volumetric and mechanical parameters, including VMA, VFA, and unit weight, satisfactorily met the Roads and Highways Department (RHD) specification limits. Therefore, 5.0\% was selected as the OBC for the subsequent comparative performance evaluations.
+As detailed in Table~\ref{tab:obc_data} and illustrated in Figure~\ref{fig:obc_determination}, the stability for both binders reached a peak before declining at higher binder contents, while the flow value increased monotonically. The target air void content ($V_a$) of 4.0\%, a standard criterion for heavy traffic pavements, corresponded to an asphalt content of approximately 5.0\% for both the local and imported bitumen mixes. At this 5.0\% OBC, all other volumetric and mechanical parameters, including VMA, VFA, and unit weight, satisfactorily met the Roads and Highways Department (RHD) specification limits. Therefore, 5.0\% was selected as the OBC for the subsequent comparative performance evaluations.
+
+The following fundamental equations were utilised to compute the volumetric properties of the Marshall specimens:
+\begin{align}
+    G_{mb} &= \frac{W_a}{W_{ssd} - W_w} \\
+    G_{mm} &= \frac{P_{mm}}{\frac{P_s}{G_{se}} + \frac{P_b}{G_b}} \\
+    P_s &= 100 - P_b \\
+    P_{mm} &= 100 \\
+    G_{se} &= \frac{P_{mm} - P_b}{\frac{P_{mm}}{G_{mm}} - \frac{P_b}{G_b}} \\
+    G_{sb} &= \frac{P_1 + P_2 + P_3}{\frac{P_1}{G_1} + \frac{P_2}{G_2} + \frac{P_3}{G_3}} \\
+    V_a (\%) &= 100 \times \frac{G_{mm} - G_{mb}}{G_{mm}} \\
+    \text{VMA} (\%) &= 100 - \frac{G_{mb} \times P_s}{G_{sb}} \\
+    \text{VFA} (\%) &= \frac{\text{VMA} - V_a}{\text{VMA}} \times 100
+\end{align}
+where $W_a$ is the weight of the specimen in air, $W_{ssd}$ is the saturated surface dry weight, $W_w$ is the weight in water, $P_b$ is the percent of binder by total weight of mix, $P_s$ is the percent of aggregate, $G_b$ is the specific gravity of the binder, $G_{se}$ is the effective specific gravity of the aggregate, $G_{sb}$ is the bulk specific gravity of the aggregate blend (with $P_1, P_2, P_3$ and $G_1, G_2, G_3$ being the percentages and specific gravities of the individual aggregate fractions), $G_{mm}$ is the theoretical maximum specific gravity of the mixture, and $G_{mb}$ is the bulk specific gravity of the compacted mixture.
 
 \begin{table}[htbp]
     \centering
@@ -708,7 +722,7 @@ As illustrated in Figure~\ref{fig:obc_determination} and detailed in Table~\ref{
     }
 \end{table}
 
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{graphics/obc_determination.pdf}
     \caption{Marshall mix design properties across varying asphalt contents for Optimum Binder Content (OBC) determination.}
