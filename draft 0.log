@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  30 AUG 2026 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -585,15 +585,15 @@ File: graphics/performance_assessment.pdf Graphic file (type pdf)
 Package pdftex.def Info: graphics/performance_assessment.pdf  used on input line 770.
 (pdftex.def)             Requested size: 452.9679pt x 298.60051pt.
  [17 <./graphics/performance_assessment.pdf>]
-<graphics/mix_comparison.pdf, id=906, 714.47598pt x 339.99835pt>
+<graphics/mix_comparison.pdf, id=907, 714.47598pt x 339.99835pt>
 File: graphics/mix_comparison.pdf Graphic file (type pdf)
 <use graphics/mix_comparison.pdf>
-Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 789.
+Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 788.
 (pdftex.def)             Requested size: 452.9679pt x 215.55414pt.
- [18 <./graphics/mix_comparison.pdf>] [19] [20
+ [18] [19 <./graphics/mix_comparison.pdf>] [20
 
 ]
-Overfull \hbox (0.10068pt too wide) in paragraph at lines 833--834
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 832--833
 []\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 Con-duct-ing ITS tests (ASTM D6931)
  []
 
@@ -609,17 +609,17 @@ Package rerunfilecheck Info: File `"draft 0".out' has not changed.
 (rerunfilecheck)             Checksum: 3387B55FE085957693400C3BBC65B7BA;7934.
  ) 
 Here is how much of TeX's memory you used:
- 13782 strings out of 467501
- 221248 string characters out of 5408550
- 708219 words of memory out of 5000000
- 42707 multiletter control sequences out of 15000+600000
+ 13784 strings out of 467501
+ 221295 string characters out of 5408550
+ 708261 words of memory out of 5000000
+ 42708 multiletter control sequences out of 15000+600000
  636770 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,13n,79p,1824b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (32 pages, 1594433 bytes).
+Output written on "draft 0.pdf" (32 pages, 1595138 bytes).
 PDF statistics:
- 1080 PDF objects out of 1200 (max. 8388607)
- 125 named destinations out of 1000 (max. 500000)
+ 1082 PDF objects out of 1200 (max. 8388607)
+ 126 named destinations out of 1000 (max. 500000)
  406 words of extra memory for PDF output out of 10000 (max. 10000000)
 
