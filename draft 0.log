@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  31 AUG 2026 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  31 AUG 2026 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,7 +545,7 @@ Package hyperref Info: Link coloring OFF on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<graphics/sec logo.png, id=183, 1284.8pt x 1284.8pt>
+<graphics/sec logo.png, id=187, 1284.8pt x 1284.8pt>
 File: graphics/sec logo.png Graphic file (type png)
 <use graphics/sec logo.png>
 Package pdftex.def Info: graphics/sec logo.png  used on input line 123.
@@ -616,77 +616,77 @@ l.378
 
 pdfTeX warning: pdflatex.exe (file ./graphics/methodology_flowchart.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<graphics/methodology_flowchart.pdf, id=374, 666.24709pt x 596.97731pt>
+<graphics/methodology_flowchart.pdf, id=380, 666.24709pt x 596.97731pt>
 File: graphics/methodology_flowchart.pdf Graphic file (type pdf)
 <use graphics/methodology_flowchart.pdf>
 Package pdftex.def Info: graphics/methodology_flowchart.pdf  used on input line
- 433.
+ 436.
 (pdftex.def)             Requested size: 385.02547pt x 344.99913pt.
 [6
 
  <./graphics/methodology_flowchart.pdf>] [7]
-<graphics/gradation_curve.pdf, id=397, 498.41772pt x 317.75684pt>
+<graphics/gradation_curve.pdf, id=403, 498.41772pt x 317.75684pt>
 File: graphics/gradation_curve.pdf Graphic file (type pdf)
 <use graphics/gradation_curve.pdf>
-Package pdftex.def Info: graphics/gradation_curve.pdf  used on input line 543.
+Package pdftex.def Info: graphics/gradation_curve.pdf  used on input line 546.
 (pdftex.def)             Requested size: 407.66833pt x 259.90286pt.
  [8]
-<graphics/zingg_diagram.pdf, id=407, 393.27426pt x 387.43997pt>
+<graphics/zingg_diagram.pdf, id=413, 393.27426pt x 387.43997pt>
 File: graphics/zingg_diagram.pdf Graphic file (type pdf)
 <use graphics/zingg_diagram.pdf>
-Package pdftex.def Info: graphics/zingg_diagram.pdf  used on input line 568.
+Package pdftex.def Info: graphics/zingg_diagram.pdf  used on input line 571.
 (pdftex.def)             Requested size: 317.07614pt x 312.38808pt.
 
-Overfull \hbox (24.6845pt too wide) in paragraph at lines 583--593
+Overfull \hbox (24.6845pt too wide) in paragraph at lines 586--596
  [][] 
  []
 
 [9 <./graphics/gradation_curve.pdf>] [10 <./graphics/zingg_diagram.pdf>]
-Overfull \hbox (31.2627pt too wide) in paragraph at lines 632--641
+Overfull \hbox (31.2627pt too wide) in paragraph at lines 635--644
  [][] 
  []
 
 [11] [12]
-<graphics/aggregate_properties.pdf, id=572, 426.26118pt x 281.79065pt>
+<graphics/aggregate_properties.pdf, id=578, 426.26118pt x 281.79065pt>
 File: graphics/aggregate_properties.pdf Graphic file (type pdf)
 <use graphics/aggregate_properties.pdf>
 Package pdftex.def Info: graphics/aggregate_properties.pdf  used on input line 
-654.
+657.
 (pdftex.def)             Requested size: 317.07614pt x 209.61394pt.
  [13
 
  <./graphics/aggregate_properties.pdf>]
-<graphics/bitumen_properties.pdf, id=628, 715.29231pt x 426.33066pt>
+<graphics/bitumen_properties.pdf, id=634, 715.29231pt x 426.33066pt>
 File: graphics/bitumen_properties.pdf Graphic file (type pdf)
 <use graphics/bitumen_properties.pdf>
-Package pdftex.def Info: graphics/bitumen_properties.pdf  used on input line 66
-9.
+Package pdftex.def Info: graphics/bitumen_properties.pdf  used on input line 67
+2.
 (pdftex.def)             Requested size: 385.02547pt x 229.48653pt.
  [14 <./graphics/bitumen_properties.pdf>]
-<graphics/obc_determination.pdf, id=684, 859.70746pt x 570.84795pt>
+<graphics/obc_determination.pdf, id=690, 859.70746pt x 570.84795pt>
 File: graphics/obc_determination.pdf Graphic file (type pdf)
 <use graphics/obc_determination.pdf>
-Package pdftex.def Info: graphics/obc_determination.pdf  used on input line 729
+Package pdftex.def Info: graphics/obc_determination.pdf  used on input line 737
 .
 (pdftex.def)             Requested size: 452.9679pt x 300.77104pt.
  [15] [16 <./graphics/obc_determination.pdf>]
-<graphics/performance_assessment.pdf, id=812, 1004.24747pt x 662.01393pt>
+<graphics/performance_assessment.pdf, id=817, 1004.24747pt x 662.01393pt>
 File: graphics/performance_assessment.pdf Graphic file (type pdf)
 <use graphics/performance_assessment.pdf>
 Package pdftex.def Info: graphics/performance_assessment.pdf  used on input lin
-e 772.
+e 780.
 (pdftex.def)             Requested size: 452.9679pt x 298.60051pt.
- [17 <./graphics/performance_assessment.pdf>]
-<graphics/mix_comparison.pdf, id=909, 714.47598pt x 339.99835pt>
+ [17] [18 <./graphics/performance_assessment.pdf>]
+<graphics/mix_comparison.pdf, id=920, 714.47598pt x 339.99835pt>
 File: graphics/mix_comparison.pdf Graphic file (type pdf)
 <use graphics/mix_comparison.pdf>
-Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 790.
+Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 798.
 (pdftex.def)             Requested size: 452.9679pt x 215.55414pt.
- [18] [19 <./graphics/mix_comparison.pdf>] [20]
+ [19 <./graphics/mix_comparison.pdf>] [20]
 [21
 
 ]
-Overfull \hbox (0.10068pt too wide) in paragraph at lines 834--835
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 842--843
 []\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 C
 on-duct-ing ITS tests (ASTM D6931)
  []
@@ -700,13 +700,13 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
 Package rerunfilecheck Info: File `"draft 0".out' has not changed.
-(rerunfilecheck)             Checksum: 3387B55FE085957693400C3BBC65B7BA;7934.
+(rerunfilecheck)             Checksum: 3FD5362BB16D290179482CA56419EF9E;8308.
  ) 
 Here is how much of TeX's memory you used:
- 13784 strings out of 467501
- 221248 string characters out of 5408550
- 707261 words of memory out of 5000000
- 42708 multiletter control sequences out of 15000+600000
+ 13786 strings out of 467501
+ 221278 string characters out of 5408550
+ 706884 words of memory out of 5000000
+ 42709 multiletter control sequences out of 15000+600000
  636770 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,13n,79p,1807b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -727,9 +727,9 @@ fonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (34 pages, 1598320 bytes).
+Output written on "draft 0.pdf" (34 pages, 1601293 bytes).
 PDF statistics:
- 1092 PDF objects out of 1200 (max. 8388607)
- 128 named destinations out of 1000 (max. 500000)
- 406 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1098 PDF objects out of 1200 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
+ 414 words of extra memory for PDF output out of 10000 (max. 10000000)
 
