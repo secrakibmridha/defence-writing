@@ -71,7 +71,8 @@ def generate_regional_comparison_figure():
     ax.text(0, local_val + 1.2, f'{local_val}', ha='center', va='bottom', fontweight='bold', color=COLORS['local'], fontsize=9.5)
     ax.text(1, imp_val + 1.2, f'{imp_val}', ha='center', va='bottom', fontweight='bold', color=COLORS['imported'], fontsize=9.5)
     for i in range(2, 6):
-        ax.text(i, 65, '60–70', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90)
+        ax.text(i, 65, '60–70', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90,
+                bbox=dict(boxstyle="round,pad=0.1", fc="white", ec="none", alpha=0.85))
 
     ax.set_title('(a) Penetration at 25°C (dmm)', pad=12, fontweight='bold')
     ax.set_ylim(0, 85)
@@ -92,14 +93,15 @@ def generate_regional_comparison_figure():
     labels_sp = ['48–56', '47–55', '48–56', '48–56']
     for idx, (b, h) in enumerate(ranges):
         ax.bar(idx + 2, h, bottom=b, width=0.55, color='#d8e2dc', edgecolor='#2b2d42', linewidth=0.8, hatch='///', zorder=3)
-        ax.text(idx + 2, b + h/2, labels_sp[idx], ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90)
+        ax.text(idx + 2, b + h/2, labels_sp[idx], ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90,
+                bbox=dict(boxstyle="round,pad=0.1", fc="white", ec="none", alpha=0.85))
     
     # Highlight regional minimum boundary (~47-48°C)
     ax.axhline(47, color='#d90429', linestyle='--', linewidth=1.1, alpha=0.85, label='Regional Min Spec Threshold')
     
     # Value annotations
     ax.text(0, local_sp + 1.2, f'{local_sp}°C\n[Pass]', ha='center', va='bottom', fontweight='bold', color=COLORS['local'], fontsize=8.5)
-    ax.text(1, imp_sp + 1.2, f'{imp_sp}°C\n[FAIL]', ha='center', va='bottom', fontweight='bold', color=COLORS['imported'], fontsize=8.5)
+    ax.text(1, imp_sp - 2, f'{imp_sp}°C\n[FAIL]', ha='center', va='top', fontweight='bold', color='white', fontsize=8)
 
     ax.set_title('(b) Softening Point (°C)', pad=12, fontweight='bold')
     ax.set_ylim(0, 68)
@@ -166,7 +168,8 @@ def generate_regional_comparison_figure():
     # 1.01 - 1.06 for all
     for idx in range(2, 6):
         ax.bar(idx, 0.05, bottom=1.01, width=0.55, color='#d8e2dc', edgecolor='#2b2d42', linewidth=0.8, hatch='///', zorder=3)
-        ax.text(idx, 1.035, '1.01–1.06', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90)
+        ax.text(idx, 1.035, '1.01–1.06', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90,
+                bbox=dict(boxstyle="round,pad=0.1", fc="white", ec="none", alpha=0.85))
     
     ax.axhline(1.01, color='#2b2d42', linestyle=':', linewidth=0.9, alpha=0.7)
     ax.axhline(1.06, color='#2b2d42', linestyle=':', linewidth=0.9, alpha=0.7)
