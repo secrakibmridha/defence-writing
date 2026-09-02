@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  3 SEP 2026 01:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  3 SEP 2026 01:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/defence writing/draft 0.tex"
-(d:/defence writing/draft 0.tex
+**"d:/defence writing/draft 1.tex"
+(d:/defence writing/draft 1.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -385,8 +385,8 @@ Package chngcntr Info: \counterwithout already defined.
  (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count329
-) (draft 0.aux)
-\openout1 = `"draft 0.aux"'.
+) (draft 1.aux)
+\openout1 = `"draft 1.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
@@ -460,9 +460,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 60.
-(draft 0.out) (draft 0.out)
+(draft 1.out) (draft 1.out)
 \@outlinefile=\write3
-\openout3 = `"draft 0.out"'.
+\openout3 = `"draft 1.out"'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
@@ -489,7 +489,7 @@ Overfull \hbox (27.17561pt too wide) in paragraph at lines 345--346
 \OT1/cmr/bx/n/10.95 Keywords: \OT1/cmr/m/n/10.95 bi-tu-men, ag-gre-gate shape, Mar-shall sta-bil-ity, cu-bi-cal ag-gre-gate, Bangladesh,
  []
 
-[5] (draft 0.toc
+[5] (draft 1.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
  (C:\Users\Rakib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -501,17 +501,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ])
 \tf@toc=\write4
-\openout4 = `"draft 0.toc"'.
+\openout4 = `"draft 1.toc"'.
 
- [7] (draft 0.lof)
+ [7] (draft 1.lof)
 \tf@lof=\write5
-\openout5 = `"draft 0.lof"'.
+\openout5 = `"draft 1.lof"'.
 
  [8
 
-] (draft 0.lot)
+] (draft 1.lot)
 \tf@lot=\write6
-\openout6 = `"draft 0.lot"'.
+\openout6 = `"draft 1.lot"'.
 
  [9
 
@@ -519,7 +519,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.378 
+l.382 
        [1
 
 
@@ -564,14 +564,14 @@ File: graphics/aggregate_properties.pdf Graphic file (type pdf)
 <use graphics/aggregate_properties.pdf>
 Package pdftex.def Info: graphics/aggregate_properties.pdf  used on input line 686.
 (pdftex.def)             Requested size: 317.07614pt x 209.61394pt.
- [13
-
- <./graphics/aggregate_properties.pdf>]
-<graphics/bitumen_properties.pdf, id=656, 715.29231pt x 426.33066pt>
+<graphics/bitumen_properties.pdf, id=602, 715.29231pt x 426.33066pt>
 File: graphics/bitumen_properties.pdf Graphic file (type pdf)
 <use graphics/bitumen_properties.pdf>
 Package pdftex.def Info: graphics/bitumen_properties.pdf  used on input line 701.
 (pdftex.def)             Requested size: 385.02547pt x 229.48653pt.
+ [13
+
+ <./graphics/aggregate_properties.pdf>]
 <graphics/bitumen_regional_comparison.pdf, id=659, 972.04605pt x 557.6374pt>
 File: graphics/bitumen_regional_comparison.pdf Graphic file (type pdf)
 <use graphics/bitumen_regional_comparison.pdf>
@@ -584,242 +584,242 @@ File: graphics/obc_determination.pdf Graphic file (type pdf)
 Package pdftex.def Info: graphics/obc_determination.pdf  used on input line 796.
 (pdftex.def)             Requested size: 452.9679pt x 300.77104pt.
  [16] [17 <./graphics/obc_determination.pdf>]
-<graphics/performance_assessment.pdf, id=981, 1004.24747pt x 662.01393pt>
+<graphics/performance_assessment.pdf, id=982, 1004.24747pt x 662.01393pt>
 File: graphics/performance_assessment.pdf Graphic file (type pdf)
 <use graphics/performance_assessment.pdf>
 Package pdftex.def Info: graphics/performance_assessment.pdf  used on input line 839.
 (pdftex.def)             Requested size: 452.9679pt x 298.60051pt.
- [18] [19 <./graphics/performance_assessment.pdf>]
-<graphics/mix_comparison.pdf, id=1084, 714.47598pt x 339.99835pt>
+ [18 <./graphics/performance_assessment.pdf>]
+<graphics/mix_comparison.pdf, id=1079, 714.47598pt x 339.99835pt>
 File: graphics/mix_comparison.pdf Graphic file (type pdf)
 <use graphics/mix_comparison.pdf>
-Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 857.
+Package pdftex.def Info: graphics/mix_comparison.pdf  used on input line 858.
 (pdftex.def)             Requested size: 452.9679pt x 215.55414pt.
- [20 <./graphics/mix_comparison.pdf>] [21] [22
+ [19 <./graphics/mix_comparison.pdf>] [20] [21
 
 ]
-Overfull \hbox (0.10068pt too wide) in paragraph at lines 901--902
+Overfull \hbox (0.10068pt too wide) in paragraph at lines 902--903
 []\OT1/cmr/bx/n/12 Indirect Ten-sile Strength (ITS) Test-ing: \OT1/cmr/m/n/12 Con-duct-ing ITS tests (ASTM D6931)
  []
 
-[23] [24] (draft 0.bbl) [25
+[22] (draft 1.bbl) [23
 
 
 ]
-<albums/appendix_01.jpeg, id=1171, 704.6325pt x 1606.0pt>
+<albums/appendix_01.jpeg, id=1163, 704.6325pt x 1606.0pt>
 File: albums/appendix_01.jpeg Graphic file (type jpg)
 <use albums/appendix_01.jpeg>
-Package pdftex.def Info: albums/appendix_01.jpeg  used on input line 918.
+Package pdftex.def Info: albums/appendix_01.jpeg  used on input line 919.
 (pdftex.def)             Requested size: 289.07323pt x 289.06754pt.
-<albums/appendix_02.jpeg, id=1172, 704.6325pt x 1606.0pt>
+<albums/appendix_02.jpeg, id=1164, 704.6325pt x 1606.0pt>
 File: albums/appendix_02.jpeg Graphic file (type jpg)
 <use albums/appendix_02.jpeg>
-Package pdftex.def Info: albums/appendix_02.jpeg  used on input line 921.
+Package pdftex.def Info: albums/appendix_02.jpeg  used on input line 922.
 (pdftex.def)             Requested size: 289.07323pt x 289.06754pt.
-<albums/appendix_03.jpeg, id=1173, 704.6325pt x 1606.0pt>
+<albums/appendix_03.jpeg, id=1165, 704.6325pt x 1606.0pt>
 File: albums/appendix_03.jpeg Graphic file (type jpg)
 <use albums/appendix_03.jpeg>
-Package pdftex.def Info: albums/appendix_03.jpeg  used on input line 924.
+Package pdftex.def Info: albums/appendix_03.jpeg  used on input line 925.
 (pdftex.def)             Requested size: 289.07323pt x 289.06754pt.
- [26
+ [24
 
 
  <./albums/appendix_01.jpeg> <./albums/appendix_02.jpeg>]
-<albums/appendix_04.jpeg, id=1178, 704.6325pt x 1606.0pt>
+<albums/appendix_04.jpeg, id=1170, 704.6325pt x 1606.0pt>
 File: albums/appendix_04.jpeg Graphic file (type jpg)
 <use albums/appendix_04.jpeg>
-Package pdftex.def Info: albums/appendix_04.jpeg  used on input line 927.
+Package pdftex.def Info: albums/appendix_04.jpeg  used on input line 928.
 (pdftex.def)             Requested size: 289.07323pt x 289.06754pt.
-<albums/appendix_05.jpeg, id=1179, 704.6325pt x 1606.0pt>
+<albums/appendix_05.jpeg, id=1171, 704.6325pt x 1606.0pt>
 File: albums/appendix_05.jpeg Graphic file (type jpg)
 <use albums/appendix_05.jpeg>
-Package pdftex.def Info: albums/appendix_05.jpeg  used on input line 930.
+Package pdftex.def Info: albums/appendix_05.jpeg  used on input line 931.
 (pdftex.def)             Requested size: 289.07323pt x 289.06754pt.
- [27 <./albums/appendix_03.jpeg> <./albums/appendix_04.jpeg>]
-<albums/appendix_06.jpeg, id=1185, 1204.5pt x 1606.0pt>
+ [25 <./albums/appendix_03.jpeg> <./albums/appendix_04.jpeg>]
+<albums/appendix_06.jpeg, id=1176, 1204.5pt x 1606.0pt>
 File: albums/appendix_06.jpeg Graphic file (type jpg)
 <use albums/appendix_06.jpeg>
-Package pdftex.def Info: albums/appendix_06.jpeg  used on input line 933.
+Package pdftex.def Info: albums/appendix_06.jpeg  used on input line 934.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_07.jpeg, id=1186, 1204.5pt x 1606.0pt>
+<albums/appendix_07.jpeg, id=1177, 1204.5pt x 1606.0pt>
 File: albums/appendix_07.jpeg Graphic file (type jpg)
 <use albums/appendix_07.jpeg>
-Package pdftex.def Info: albums/appendix_07.jpeg  used on input line 936.
+Package pdftex.def Info: albums/appendix_07.jpeg  used on input line 937.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [28 <./albums/appendix_05.jpeg> <./albums/appendix_06.jpeg>]
-<albums/appendix_08.jpeg, id=1191, 1204.5pt x 1606.0pt>
+ [26 <./albums/appendix_05.jpeg> <./albums/appendix_06.jpeg>]
+<albums/appendix_08.jpeg, id=1182, 1204.5pt x 1606.0pt>
 File: albums/appendix_08.jpeg Graphic file (type jpg)
 <use albums/appendix_08.jpeg>
-Package pdftex.def Info: albums/appendix_08.jpeg  used on input line 939.
+Package pdftex.def Info: albums/appendix_08.jpeg  used on input line 940.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_09.jpeg, id=1192, 1204.5pt x 1606.0pt>
+<albums/appendix_09.jpeg, id=1183, 1204.5pt x 1606.0pt>
 File: albums/appendix_09.jpeg Graphic file (type jpg)
 <use albums/appendix_09.jpeg>
-Package pdftex.def Info: albums/appendix_09.jpeg  used on input line 942.
+Package pdftex.def Info: albums/appendix_09.jpeg  used on input line 943.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [29 <./albums/appendix_07.jpeg> <./albums/appendix_08.jpeg>]
-<albums/appendix_10.jpeg, id=1197, 1204.5pt x 1606.0pt>
+ [27 <./albums/appendix_07.jpeg> <./albums/appendix_08.jpeg>]
+<albums/appendix_10.jpeg, id=1189, 1204.5pt x 1606.0pt>
 File: albums/appendix_10.jpeg Graphic file (type jpg)
 <use albums/appendix_10.jpeg>
-Package pdftex.def Info: albums/appendix_10.jpeg  used on input line 945.
+Package pdftex.def Info: albums/appendix_10.jpeg  used on input line 946.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_11.jpeg, id=1198, 1204.5pt x 1606.0pt>
+<albums/appendix_11.jpeg, id=1190, 1204.5pt x 1606.0pt>
 File: albums/appendix_11.jpeg Graphic file (type jpg)
 <use albums/appendix_11.jpeg>
-Package pdftex.def Info: albums/appendix_11.jpeg  used on input line 948.
+Package pdftex.def Info: albums/appendix_11.jpeg  used on input line 949.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [30 <./albums/appendix_09.jpeg> <./albums/appendix_10.jpeg>]
-<albums/appendix_12.jpeg, id=1203, 1204.5pt x 1606.0pt>
+ [28 <./albums/appendix_09.jpeg> <./albums/appendix_10.jpeg>]
+<albums/appendix_12.jpeg, id=1195, 1204.5pt x 1606.0pt>
 File: albums/appendix_12.jpeg Graphic file (type jpg)
 <use albums/appendix_12.jpeg>
-Package pdftex.def Info: albums/appendix_12.jpeg  used on input line 951.
+Package pdftex.def Info: albums/appendix_12.jpeg  used on input line 952.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_13.jpeg, id=1204, 1204.5pt x 1606.0pt>
+<albums/appendix_13.jpeg, id=1196, 1204.5pt x 1606.0pt>
 File: albums/appendix_13.jpeg Graphic file (type jpg)
 <use albums/appendix_13.jpeg>
-Package pdftex.def Info: albums/appendix_13.jpeg  used on input line 954.
+Package pdftex.def Info: albums/appendix_13.jpeg  used on input line 955.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [31 <./albums/appendix_11.jpeg> <./albums/appendix_12.jpeg>]
-<albums/appendix_14.jpeg, id=1209, 1204.5pt x 1606.0pt>
+ [29 <./albums/appendix_11.jpeg> <./albums/appendix_12.jpeg>]
+<albums/appendix_14.jpeg, id=1201, 1204.5pt x 1606.0pt>
 File: albums/appendix_14.jpeg Graphic file (type jpg)
 <use albums/appendix_14.jpeg>
-Package pdftex.def Info: albums/appendix_14.jpeg  used on input line 957.
+Package pdftex.def Info: albums/appendix_14.jpeg  used on input line 958.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_15.jpeg, id=1210, 1204.5pt x 1606.0pt>
+<albums/appendix_15.jpeg, id=1202, 1204.5pt x 1606.0pt>
 File: albums/appendix_15.jpeg Graphic file (type jpg)
 <use albums/appendix_15.jpeg>
-Package pdftex.def Info: albums/appendix_15.jpeg  used on input line 960.
+Package pdftex.def Info: albums/appendix_15.jpeg  used on input line 961.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [32 <./albums/appendix_13.jpeg> <./albums/appendix_14.jpeg>]
-<albums/appendix_16.jpeg, id=1215, 1204.5pt x 1606.0pt>
+ [30 <./albums/appendix_13.jpeg> <./albums/appendix_14.jpeg>]
+<albums/appendix_16.jpeg, id=1207, 1204.5pt x 1606.0pt>
 File: albums/appendix_16.jpeg Graphic file (type jpg)
 <use albums/appendix_16.jpeg>
-Package pdftex.def Info: albums/appendix_16.jpeg  used on input line 963.
+Package pdftex.def Info: albums/appendix_16.jpeg  used on input line 964.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_17.jpeg, id=1216, 1204.5pt x 1606.0pt>
+<albums/appendix_17.jpeg, id=1208, 1204.5pt x 1606.0pt>
 File: albums/appendix_17.jpeg Graphic file (type jpg)
 <use albums/appendix_17.jpeg>
-Package pdftex.def Info: albums/appendix_17.jpeg  used on input line 966.
+Package pdftex.def Info: albums/appendix_17.jpeg  used on input line 967.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [33 <./albums/appendix_15.jpeg> <./albums/appendix_16.jpeg>]
-<albums/appendix_18.jpeg, id=1222, 1204.5pt x 1606.0pt>
+ [31 <./albums/appendix_15.jpeg> <./albums/appendix_16.jpeg>]
+<albums/appendix_18.jpeg, id=1213, 1204.5pt x 1606.0pt>
 File: albums/appendix_18.jpeg Graphic file (type jpg)
 <use albums/appendix_18.jpeg>
-Package pdftex.def Info: albums/appendix_18.jpeg  used on input line 969.
+Package pdftex.def Info: albums/appendix_18.jpeg  used on input line 970.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_19.jpeg, id=1223, 1204.5pt x 1606.0pt>
+<albums/appendix_19.jpeg, id=1214, 1204.5pt x 1606.0pt>
 File: albums/appendix_19.jpeg Graphic file (type jpg)
 <use albums/appendix_19.jpeg>
-Package pdftex.def Info: albums/appendix_19.jpeg  used on input line 972.
+Package pdftex.def Info: albums/appendix_19.jpeg  used on input line 973.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [34 <./albums/appendix_17.jpeg> <./albums/appendix_18.jpeg>]
-<albums/appendix_20.jpeg, id=1228, 1204.5pt x 1606.0pt>
+ [32 <./albums/appendix_17.jpeg> <./albums/appendix_18.jpeg>]
+<albums/appendix_20.jpeg, id=1219, 1204.5pt x 1606.0pt>
 File: albums/appendix_20.jpeg Graphic file (type jpg)
 <use albums/appendix_20.jpeg>
-Package pdftex.def Info: albums/appendix_20.jpeg  used on input line 975.
+Package pdftex.def Info: albums/appendix_20.jpeg  used on input line 976.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_21.jpeg, id=1229, 1204.5pt x 1606.0pt>
+<albums/appendix_21.jpeg, id=1220, 1204.5pt x 1606.0pt>
 File: albums/appendix_21.jpeg Graphic file (type jpg)
 <use albums/appendix_21.jpeg>
-Package pdftex.def Info: albums/appendix_21.jpeg  used on input line 978.
+Package pdftex.def Info: albums/appendix_21.jpeg  used on input line 979.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [35 <./albums/appendix_19.jpeg> <./albums/appendix_20.jpeg>]
-<albums/appendix_22.jpeg, id=1234, 1204.5pt x 1606.0pt>
+ [33 <./albums/appendix_19.jpeg> <./albums/appendix_20.jpeg>]
+<albums/appendix_22.jpeg, id=1226, 1204.5pt x 1606.0pt>
 File: albums/appendix_22.jpeg Graphic file (type jpg)
 <use albums/appendix_22.jpeg>
-Package pdftex.def Info: albums/appendix_22.jpeg  used on input line 981.
+Package pdftex.def Info: albums/appendix_22.jpeg  used on input line 982.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_23.jpeg, id=1235, 1204.5pt x 1606.0pt>
+<albums/appendix_23.jpeg, id=1227, 1204.5pt x 1606.0pt>
 File: albums/appendix_23.jpeg Graphic file (type jpg)
 <use albums/appendix_23.jpeg>
-Package pdftex.def Info: albums/appendix_23.jpeg  used on input line 984.
+Package pdftex.def Info: albums/appendix_23.jpeg  used on input line 985.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [36 <./albums/appendix_21.jpeg> <./albums/appendix_22.jpeg>]
-<albums/appendix_24.jpeg, id=1240, 1204.5pt x 1606.0pt>
+ [34 <./albums/appendix_21.jpeg> <./albums/appendix_22.jpeg>]
+<albums/appendix_24.jpeg, id=1232, 1204.5pt x 1606.0pt>
 File: albums/appendix_24.jpeg Graphic file (type jpg)
 <use albums/appendix_24.jpeg>
-Package pdftex.def Info: albums/appendix_24.jpeg  used on input line 987.
+Package pdftex.def Info: albums/appendix_24.jpeg  used on input line 988.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_25.jpeg, id=1241, 1204.5pt x 1606.0pt>
+<albums/appendix_25.jpeg, id=1233, 1204.5pt x 1606.0pt>
 File: albums/appendix_25.jpeg Graphic file (type jpg)
 <use albums/appendix_25.jpeg>
-Package pdftex.def Info: albums/appendix_25.jpeg  used on input line 990.
+Package pdftex.def Info: albums/appendix_25.jpeg  used on input line 991.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [37 <./albums/appendix_23.jpeg> <./albums/appendix_24.jpeg>]
-<albums/appendix_26.jpeg, id=1246, 1204.5pt x 1606.0pt>
+ [35 <./albums/appendix_23.jpeg> <./albums/appendix_24.jpeg>]
+<albums/appendix_26.jpeg, id=1238, 1204.5pt x 1606.0pt>
 File: albums/appendix_26.jpeg Graphic file (type jpg)
 <use albums/appendix_26.jpeg>
-Package pdftex.def Info: albums/appendix_26.jpeg  used on input line 993.
+Package pdftex.def Info: albums/appendix_26.jpeg  used on input line 994.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_27.jpeg, id=1247, 1204.5pt x 1606.0pt>
+<albums/appendix_27.jpeg, id=1239, 1204.5pt x 1606.0pt>
 File: albums/appendix_27.jpeg Graphic file (type jpg)
 <use albums/appendix_27.jpeg>
-Package pdftex.def Info: albums/appendix_27.jpeg  used on input line 996.
+Package pdftex.def Info: albums/appendix_27.jpeg  used on input line 997.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [38 <./albums/appendix_25.jpeg> <./albums/appendix_26.jpeg>]
-<albums/appendix_28.jpeg, id=1252, 1204.5pt x 1606.0pt>
+ [36 <./albums/appendix_25.jpeg> <./albums/appendix_26.jpeg>]
+<albums/appendix_28.jpeg, id=1244, 1204.5pt x 1606.0pt>
 File: albums/appendix_28.jpeg Graphic file (type jpg)
 <use albums/appendix_28.jpeg>
-Package pdftex.def Info: albums/appendix_28.jpeg  used on input line 999.
+Package pdftex.def Info: albums/appendix_28.jpeg  used on input line 1000.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_29.jpeg, id=1253, 1204.5pt x 1606.0pt>
+<albums/appendix_29.jpeg, id=1245, 1204.5pt x 1606.0pt>
 File: albums/appendix_29.jpeg Graphic file (type jpg)
 <use albums/appendix_29.jpeg>
-Package pdftex.def Info: albums/appendix_29.jpeg  used on input line 1002.
+Package pdftex.def Info: albums/appendix_29.jpeg  used on input line 1003.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [39 <./albums/appendix_27.jpeg> <./albums/appendix_28.jpeg>]
-<albums/appendix_30.jpeg, id=1259, 1606.0pt x 1204.5pt>
+ [37 <./albums/appendix_27.jpeg> <./albums/appendix_28.jpeg>]
+<albums/appendix_30.jpeg, id=1250, 1606.0pt x 1204.5pt>
 File: albums/appendix_30.jpeg Graphic file (type jpg)
 <use albums/appendix_30.jpeg>
-Package pdftex.def Info: albums/appendix_30.jpeg  used on input line 1005.
+Package pdftex.def Info: albums/appendix_30.jpeg  used on input line 1006.
 (pdftex.def)             Requested size: 289.06754pt x 289.0859pt.
-<albums/appendix_31.jpeg, id=1260, 1204.5pt x 1606.0pt>
+<albums/appendix_31.jpeg, id=1251, 1204.5pt x 1606.0pt>
 File: albums/appendix_31.jpeg Graphic file (type jpg)
 <use albums/appendix_31.jpeg>
-Package pdftex.def Info: albums/appendix_31.jpeg  used on input line 1008.
+Package pdftex.def Info: albums/appendix_31.jpeg  used on input line 1009.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [40 <./albums/appendix_29.jpeg> <./albums/appendix_30.jpeg>]
-<albums/appendix_32.jpeg, id=1265, 1606.0pt x 1204.5pt>
+ [38 <./albums/appendix_29.jpeg> <./albums/appendix_30.jpeg>]
+<albums/appendix_32.jpeg, id=1256, 1606.0pt x 1204.5pt>
 File: albums/appendix_32.jpeg Graphic file (type jpg)
 <use albums/appendix_32.jpeg>
-Package pdftex.def Info: albums/appendix_32.jpeg  used on input line 1011.
+Package pdftex.def Info: albums/appendix_32.jpeg  used on input line 1012.
 (pdftex.def)             Requested size: 289.06754pt x 289.0859pt.
-<albums/appendix_33.jpeg, id=1266, 1204.5pt x 1606.0pt>
+<albums/appendix_33.jpeg, id=1257, 1204.5pt x 1606.0pt>
 File: albums/appendix_33.jpeg Graphic file (type jpg)
 <use albums/appendix_33.jpeg>
-Package pdftex.def Info: albums/appendix_33.jpeg  used on input line 1014.
+Package pdftex.def Info: albums/appendix_33.jpeg  used on input line 1015.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [41 <./albums/appendix_31.jpeg> <./albums/appendix_32.jpeg>]
-<albums/appendix_34.jpeg, id=1271, 1204.5pt x 1606.0pt>
+ [39 <./albums/appendix_31.jpeg> <./albums/appendix_32.jpeg>]
+<albums/appendix_34.jpeg, id=1263, 1204.5pt x 1606.0pt>
 File: albums/appendix_34.jpeg Graphic file (type jpg)
 <use albums/appendix_34.jpeg>
-Package pdftex.def Info: albums/appendix_34.jpeg  used on input line 1017.
+Package pdftex.def Info: albums/appendix_34.jpeg  used on input line 1018.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
-<albums/appendix_35.jpeg, id=1272, 1204.5pt x 1606.0pt>
+<albums/appendix_35.jpeg, id=1264, 1204.5pt x 1606.0pt>
 File: albums/appendix_35.jpeg Graphic file (type jpg)
 <use albums/appendix_35.jpeg>
-Package pdftex.def Info: albums/appendix_35.jpeg  used on input line 1020.
+Package pdftex.def Info: albums/appendix_35.jpeg  used on input line 1021.
 (pdftex.def)             Requested size: 289.0859pt x 289.06754pt.
- [42 <./albums/appendix_33.jpeg> <./albums/appendix_34.jpeg>] [43 <./albums/appendix_35.jpeg>] (draft 0.aux)
+ [40 <./albums/appendix_33.jpeg> <./albums/appendix_34.jpeg>] [41 <./albums/appendix_35.jpeg>] (draft 1.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
-Package rerunfilecheck Info: File `"draft 0".out' has not changed.
+Package rerunfilecheck Info: File `"draft 1".out' has not changed.
 (rerunfilecheck)             Checksum: 81A95379D3C74D6D23D590F1AD33592C;8392.
  ) 
 Here is how much of TeX's memory you used:
- 14073 strings out of 467501
- 229426 string characters out of 5408550
- 708799 words of memory out of 5000000
+ 14071 strings out of 467501
+ 229412 string characters out of 5408550
+ 709176 words of memory out of 5000000
  42970 multiletter control sequences out of 15000+600000
  636770 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,13n,79p,1824b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,13n,79p,1606b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rakib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "draft 0.pdf" (53 pages, 7320306 bytes).
+Output written on "draft 1.pdf" (51 pages, 7313270 bytes).
 PDF statistics:
- 1383 PDF objects out of 1440 (max. 8388607)
- 153 named destinations out of 1000 (max. 500000)
+ 1375 PDF objects out of 1440 (max. 8388607)
+ 151 named destinations out of 1000 (max. 500000)
  602 words of extra memory for PDF output out of 10000 (max. 10000000)
 
