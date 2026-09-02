@@ -395,9 +395,35 @@ This study is limited to a laboratory-scale investigation employing the Marshall
 
 The following limitations are acknowledged:
 \begin{itemize}
-    \item Aggregates were sourced from a single quarry; results may vary with different geological origins.
-    \item Polymer-modified binders were not included in the scope of this investigation.
-    \item The study is confined to the 19\,mm NMAS gradation and does not extend to other layer types such as bituminous concrete (BC) or stone matrix asphalt (SMA).
+    \item \textbf{Aggregate Morphological Evaluation:} The shape classification of coarse aggregates was solely based on the Zingg diagram, utilizing elongation and flatness ratios. The relevant shape parameters are defined as follows:
+    \begin{align*}
+        \text{Elongation ratio} &= d_i / d_l \\
+        \text{Flatness ratio} &= d_s / d_i \\
+        \text{Shape factor} &= \frac{d_s}{\sqrt{d_i \cdot d_l}} \\
+        \text{Sphericity} &= \sqrt[3]{\frac{d_s \cdot d_i}{d_l^2}}
+    \end{align*}
+    where $d_l$, $d_i$, and $d_s$ represent the longest, intermediate, and shortest dimensions of the aggregate, respectively. With these ratios, the aggregates are classified into Blade shape, Disc shape, Cubical shape, and Rod shape, as shown in Table~\ref{tab:shape_classification_limitations}.
+    
+    \begin{table}[H]
+        \centering
+        \caption{Aggregate shape classification using Zingg's classification}
+        \label{tab:shape_classification_limitations}
+        \begin{tabular}{@{}lcc@{}}
+            \toprule
+            \textbf{Aggregate shape} & \textbf{Elongation ratio} & \textbf{Flatness ratio} \\
+            \midrule
+            Blade & $< 2/3$ & $< 2/3$ \\
+            Rod & $< 2/3$ & $> 2/3$ \\
+            Disc & $> 2/3$ & $< 2/3$ \\
+            Cubical & $> 2/3$ & $> 2/3$ \\
+            \bottomrule
+        \end{tabular}
+    \end{table}
+
+    A more comprehensive metric incorporating the aforementioned Shape factor or Sphericity, or the Particle Index (PI), was not determined. Evaluating the Particle Index (PI) would have provided a more adequate measure of the combined contributions of particle shape, angularity, and surface texture to the dense packing configuration and internal resistance of the mix.
+    \item \textbf{Material Sourcing:} Aggregates were sourced from a single quarry in the Sylhet region; therefore, the results may vary with aggregates of different geological origins or mineralogical compositions.
+    \item \textbf{Binder Modification:} The scope of this investigation was restricted to unmodified penetration-grade binders. The performance enhancement using polymer-modified binders (e.g., adding 5\% SBS polymer) was not included.
+    \item \textbf{Gradation Scope:} The study is strictly confined to the 19\,mm NMAS DBM gradation and does not extend to other critical pavement layers such as Bituminous Concrete (BC) or Stone Matrix Asphalt (SMA).
 \end{itemize}
 
 \subsection{Thesis Organisation}
@@ -413,6 +439,8 @@ The performance of flexible pavements is fundamentally governed by the structura
 
 \subsection{Aggregate Shape and Its Influence on Mix Design}
 The morphological characteristics of coarse aggregates---specifically their shape, angularity, and texture---exert a profound influence on the mechanical stability and volumetric properties of hot mix asphalt (HMA). Khairandish and Chopra~\cite{khairandish2020influence} conducted a comprehensive review indicating that flat and elongated particles tend to fracture under heavy traffic loads, thereby reducing the shear resistance and increasing the rutting susceptibility of bituminous mixes. This was empirically supported by Teja and Krishna~\cite{teja2020effect}, who investigated dense bituminous macadam (DBM) mixes containing various proportions of differently shaped aggregates. Their study revealed that replacing conventional aggregates with 20\% cubical particles significantly enhanced Marshall stability due to superior aggregate interlock and internal friction, whereas the inclusion of blade-shaped aggregates drastically reduced mix workability and strength. Furthermore, Rajkumar et al.~\cite{rajkumar2018experimental} emphasized that a higher percentage of flaky and elongated aggregates invariably leads to an undesirable increase in air voids, compromising the fatigue life of the pavement. Corroborating these findings, Sumanth et al.~\cite{sumanth2017study} demonstrated that DBM mixes formulated with cubical aggregates exhibited maximum rutting resistance, conclusively establishing cubical aggregate proportioning as a critical parameter in optimizing flexible pavement design.
+
+Furthermore, emphasizing the regional context of South Asia, Verma and Khare~\cite{verma2024study} investigated the physical properties of conventional crushed rock aggregates used in Indian road construction. They highlighted that aggregate characteristics---such as particle size, shape, and surface texture---are highly significant in determining the strength and serviceability of new-generation bituminous mixtures. Following the MORT\&H specifications, their study demonstrated that fundamental Marshall parameters, including Stability, Flow, VMA, VFB, and Air Voids, are heavily dependent on aggregate particle shapes classified as cubical, rounded, and blade. They concluded that flakiness negatively affects the quality of the bituminous mix, directly validating the necessity of using cubical aggregates to achieve optimal pavement performance.
 
 \subsection{Subgrade Stabilization and Economic Road Construction}
 In addition to optimizing the surface course, strengthening the pavement foundation is a critical strategy for achieving cost-effective road construction. Sood and Bansal~\cite{sood2015evaluation} evaluated the techno-economic benefits of utilizing industrial by-products, such as lime and fly ash, for subgrade soil stabilization. Their research demonstrated that treating weak subgrade soils with these additives substantially increases the California Bearing Ratio (CBR) up to an optimal limit. A stronger, stabilized subgrade fundamentally reduces the required thickness of the overlying flexible pavement layers. Consequently, this approach not only mitigates the environmental impact of industrial waste disposal but also provides a highly economical solution by reducing the total volume of expensive construction materials required for highway projects.

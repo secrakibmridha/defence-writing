@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex draft 0"] 1788192996.78933 "draft 0.aux" "draft 0.bbl" "draft 0" 1788192999.84642 0
-  "./biblography.bib" 1788086425 3439 56d3b8569b36a6174bd1ad86bf258440 ""
+["bibtex draft 0"] 1788366655.49623 "draft 0.aux" "draft 0.bbl" "draft 0" 1788366659.35969 0
+  "./biblography.bib" 1788366538 3795 9ceda0ac64630f3b3a100e85bad5743d ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "draft 0.aux" 1788192998 13882 820ba8ece0e057c2e1595921d2314ef9 "pdflatex"
+  "draft 0.aux" 1788366658 14254 10fe0332df5678d47c4c0c5876077478 "pdflatex"
   (generated)
   "draft 0.bbl"
   "draft 0.blg"
   (rewritten before read)
-["pdflatex"] 1788192997.16633 "draft 0.tex" "draft 0.pdf" "draft 0" 1788192999.84761 0
+["pdflatex"] 1788366655.88756 "draft 0.tex" "draft 0.pdf" "draft 0" 1788366659.3604 0
   "C:/Users/Rakib/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1788071204 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Rakib/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1787589290 14064 2536f020c53fbecc49e989b679eeb98b ""
   "C:/Users/Rakib/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1787589005 13367606 8f3d22dfe108f80e09fac760b574647f ""
@@ -37,6 +37,7 @@
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/Rakib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1247596666 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
@@ -155,13 +156,13 @@
   "albums/appendix_33.jpeg" 1788191639 180409 66a963845aadda9453073ab03f607767 ""
   "albums/appendix_34.jpeg" 1788191639 157840 a887c4f4c3a59d8c21fad59e101b4c90 ""
   "albums/appendix_35.jpeg" 1788191639 164421 0c71d0440e67c640f974499a82f2c5e4 ""
-  "draft 0.aux" 1788192998 13882 820ba8ece0e057c2e1595921d2314ef9 "pdflatex"
-  "draft 0.bbl" 1788192997 2670 484f94929c1178af722af758994be54d "bibtex draft 0"
-  "draft 0.lof" 1788192998 1734 ec8b80aa761212603057c9ac436aeef3 "pdflatex"
-  "draft 0.lot" 1788192998 1305 5b02dfaf39bbf20b09230e450b862ef3 "pdflatex"
-  "draft 0.out" 1788192998 8392 f45cd7104e8aa53a4bb614244eb38fd8 "pdflatex"
-  "draft 0.tex" 1788192985 69750 b28a1fefd46bb6705789bdf4cdfaab96 ""
-  "draft 0.toc" 1788192998 4056 443f56b801ad52fe7905852991bc7819 "pdflatex"
+  "draft 0.aux" 1788366658 14254 10fe0332df5678d47c4c0c5876077478 "pdflatex"
+  "draft 0.bbl" 1788366655 2961 ccc33f74a91bf0ae45e4d294a768ecae "bibtex draft 0"
+  "draft 0.lof" 1788366658 1734 010f920d0334463e39b7b3f39187527d "pdflatex"
+  "draft 0.lot" 1788366658 1443 697f78cbcf7d9f95ecc7769224ff94d5 "pdflatex"
+  "draft 0.out" 1788366658 8392 81a95379d3c74d6d23d590f1ad33592c "pdflatex"
+  "draft 0.tex" 1788366633 72645 b52c3207c4fa50b4036bfac1cb2ec54f ""
+  "draft 0.toc" 1788366658 4056 0a433c4a2698d7a84aad4a1aebd12b73 "pdflatex"
   "graphics/aggregate_properties.pdf" 1788011786 22902 894c8eef0e397819d110d78bd6386c5c ""
   "graphics/bitumen_properties.pdf" 1787936388 23976 5e14097dc9050c3756eb47ed8cf7d58d ""
   "graphics/bitumen_regional_comparison.pdf" 1788176287 62828 003a8b98e86341bfb4b92a026dfeb9be ""
