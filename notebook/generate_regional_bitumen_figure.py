@@ -41,7 +41,7 @@ COLORS = {
 }
 
 def generate_regional_comparison_figure():
-    fig, axes = plt.subplots(2, 3, figsize=(11.5, 6.8))
+    fig, axes = plt.subplots(2, 3, figsize=(13.5, 7.5))
     axes = axes.flatten()
 
     entities = ['Local\n(ERL)', 'Imported\n(Low-Cost)', 'Bangladesh\n(RHD)', 'India\n(MORT&H)', 'Nepal\n(DOR)', 'Pakistan\n(NHA)']
@@ -71,7 +71,7 @@ def generate_regional_comparison_figure():
     ax.text(0, local_val + 1.2, f'{local_val}', ha='center', va='bottom', fontweight='bold', color=COLORS['local'], fontsize=9.5)
     ax.text(1, imp_val + 1.2, f'{imp_val}', ha='center', va='bottom', fontweight='bold', color=COLORS['imported'], fontsize=9.5)
     for i in range(2, 6):
-        ax.text(i, 65, '60–70', ha='center', va='center', fontsize=8, color='#1d3557', fontweight='bold')
+        ax.text(i, 65, '60–70', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90)
 
     ax.set_title('(a) Penetration at 25°C (dmm)', pad=12, fontweight='bold')
     ax.set_ylim(0, 85)
@@ -92,7 +92,7 @@ def generate_regional_comparison_figure():
     labels_sp = ['48–56', '47–55', '48–56', '48–56']
     for idx, (b, h) in enumerate(ranges):
         ax.bar(idx + 2, h, bottom=b, width=0.55, color='#d8e2dc', edgecolor='#2b2d42', linewidth=0.8, hatch='///', zorder=3)
-        ax.text(idx + 2, b + h/2, labels_sp[idx], ha='center', va='center', fontsize=8, color='#1d3557', fontweight='bold')
+        ax.text(idx + 2, b + h/2, labels_sp[idx], ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90)
     
     # Highlight regional minimum boundary (~47-48°C)
     ax.axhline(47, color='#d90429', linestyle='--', linewidth=1.1, alpha=0.85, label='Regional Min Spec Threshold')
@@ -123,7 +123,7 @@ def generate_regional_comparison_figure():
         ax.text(idx + 2, m/2, f'≥ {m} cm', ha='center', va='center', fontsize=8, color='#212529', fontweight='bold', rotation=90)
     
     ax.text(0, local_duc + 2, f'{local_duc} cm', ha='center', va='bottom', fontweight='bold', color=COLORS['local'], fontsize=8.5)
-    ax.text(1, imp_duc + 2, f'{imp_duc} cm\n(Fails BD, NP, PK)', ha='center', va='bottom', fontweight='bold', color=COLORS['imported'], fontsize=8)
+    ax.text(1, imp_duc + 2, f'{imp_duc} cm\n(Fails BD,NP,PK)', ha='center', va='bottom', fontweight='bold', color=COLORS['imported'], fontsize=7.5)
 
     ax.set_title('(c) Ductility at 25°C (cm)', pad=12, fontweight='bold')
     ax.set_ylim(0, 135)
@@ -147,7 +147,7 @@ def generate_regional_comparison_figure():
     ax.axhline(232, color='#d90429', linestyle='--', linewidth=1.1, alpha=0.85, label='Universal Safety Min (232°C)')
     
     ax.text(0, local_fp + 4, f'{local_fp}°C\n[Safe]', ha='center', va='bottom', fontweight='bold', color=COLORS['local'], fontsize=8.5)
-    ax.text(1, imp_fp + 4, f'{imp_fp}°C\n[HAZARD]', ha='center', va='bottom', fontweight='bold', color=COLORS['imported'], fontsize=8.5)
+    ax.text(1, imp_fp - 4, f'{imp_fp}°C\n[FAIL]', ha='center', va='top', fontweight='bold', color='white', fontsize=8)
 
     ax.set_title('(d) Flash Point (°C)', pad=12, fontweight='bold')
     ax.set_ylim(0, 300)
@@ -166,7 +166,7 @@ def generate_regional_comparison_figure():
     # 1.01 - 1.06 for all
     for idx in range(2, 6):
         ax.bar(idx, 0.05, bottom=1.01, width=0.55, color='#d8e2dc', edgecolor='#2b2d42', linewidth=0.8, hatch='///', zorder=3)
-        ax.text(idx, 1.035, '1.01–1.06', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold')
+        ax.text(idx, 1.035, '1.01–1.06', ha='center', va='center', fontsize=7.5, color='#1d3557', fontweight='bold', rotation=90)
     
     ax.axhline(1.01, color='#2b2d42', linestyle=':', linewidth=0.9, alpha=0.7)
     ax.axhline(1.06, color='#2b2d42', linestyle=':', linewidth=0.9, alpha=0.7)
