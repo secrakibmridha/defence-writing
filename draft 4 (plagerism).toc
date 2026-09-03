@@ -1,0 +1,47 @@
+\contentsline {section}{Declaration}{i}{section*.1}%
+\contentsline {section}{Certification}{ii}{section*.2}%
+\contentsline {section}{Copyright Statement}{iii}{section*.3}%
+\contentsline {section}{Acknowledgement}{iv}{section*.4}%
+\contentsline {section}{List of Figures}{vii}{section*.5}%
+\contentsline {section}{List of Tables}{viii}{section*.6}%
+\contentsline {section}{Abstract}{ix}{section*.7}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Objectives of the Study}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Scope and Limitations}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Thesis Organisation}{4}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Literature Review}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Bitumen Grading and Pavement Performance in Tropical Climates}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Aggregate Shape and Its Influence on Mix Design}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Subgrade Stabilization and Economic Road Construction}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Influence of Bitumen Properties on Stripping and Durability}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Research Gap}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Methodology}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}General}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Materials}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Bitumen}{7}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Aggregates}{8}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Mineral Filler}{8}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Aggregate Gradation and Blending}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Aggregate Shape Classification}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Mix Design}{11}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Mix Combinations}{11}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Specimen Preparation}{11}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Optimum Binder Content Determination}{12}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Testing Programme}{12}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Marshall Stability and Flow Test}{12}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Volumetric Analysis}{12}{subsubsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.7}Summary of Test Matrix}{13}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Results and Discussion}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Properties of Aggregates}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Properties of Bituminous Binders}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Determination of Optimum Binder Content}{17}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Comparative Analysis of Bituminous Mixtures}{18}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Proposed Roadmap for Cost-Effective Road Construction in Bangladesh}{21}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Conclusion}{23}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Summary of Findings}{23}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Recommendations for Practice}{23}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Future Work}{24}{subsection.5.3}%
+\contentsline {section}{REFERENCES}{25}{section*.29}%
+\contentsline {section}{APPENDIX}{26}{section*.30}%
